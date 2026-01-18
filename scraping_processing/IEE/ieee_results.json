@@ -1,0 +1,4362 @@
+[
+    {
+        "title": "ArtChain: Blockchain-Enabled Platform for Art Marketplace",
+        "authors": "Ziyuan Wang;\nLin Yang;\nQin Wang;\nDonghai Liu;\nZhiyu Xu;\nShigang Liu",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "IEEE Draft Standard for Blockchain-based Electronic Contracts",
+        "authors": "Unknown",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "IEEE Draft Standard for the Use of Blockchain in Supply Chain Finance",
+        "authors": "Unknown",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "IEEE Approved Draft Standard for the Use of Blockchain in Supply Chain Finance",
+        "authors": "Unknown",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Effective Scheme against 51% Attack on Proof-of-Work Blockchain with History Weighted Information",
+        "authors": "Xinle Yang;\nYang Chen;\nXiaohu Chen",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A Lightweight Blockchain-Based Privacy Protection for Smart Surveillance at the Edge",
+        "authors": "Alem Fitwi;\nYu Chen;\nSencun Zhu",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Performance Analysis of a Hyperledger Fabric Blockchain Framework: Throughput, Latency and Scalability",
+        "authors": "Murat Kuzlu;\nManisa Pipattanasomporn;\nLevent Gurses;\nSaifur Rahman",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "ETH Relay: A Cost-efficient Relay for Ethereum-based Blockchains",
+        "authors": "Philipp Frauenthaler;\nMarten Sigwart;\nChristof Spanring;\nMichael Sober;\nStefan Schulte",
+        "date_pub": "2020",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Air Gapped Wallet Schemes and Private Key Leakage in Permissioned Blockchain Platforms",
+        "authors": "Amanda Davenport;\nSachin Shetty",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Understanding Blockchain Technology: Abstracting the Blockchain",
+        "authors": "Morgen Peck",
+        "date_pub": "2018",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Introduction to Blockchain",
+        "authors": "Akshay Mudgal",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Subsidy-Chain: A Secure Blockchain-based Architecture for Subsidy Management and Tracking",
+        "authors": "K Dyamalli;\nRupalagudi Likhitha;\nY Harshitha Reddy;\nMonica N;\nArshiya Lubna;\nAshishika Singh",
+        "date_pub": "2025",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain security architecture: A review technology platform, security strength and weakness",
+        "authors": "Latifa Al-Abbasi;\nWael El-Medany",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A High Performance Blockchain Platform for Intelligent Devices",
+        "authors": "Shitang Yu;\nKun Lv;\nZhou Shao;\nYingcheng Guo;\nJun Zou;\nBo Zhang",
+        "date_pub": "2018",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "IEEE Draft Standard for Application Technical Specification of Blockchain-based E-Commerce Transaction Evidence Collecting",
+        "authors": "Unknown",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "IEEE Approved Draft Standard for Application Technical Specification of Blockchain-based E-Commerce Transaction Evidence Collecting",
+        "authors": "Unknown",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Research and Design of Electric Power Engineering Project Management System Bsed on Blockchain Technology",
+        "authors": "Qinglei Guo;\nShuai Chen;\nJunsheng Wang;\nXiaoting Pan",
+        "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Routing Cross-Blockchain Communication",
+        "authors": "Max Kobelt;\nMichael Sober;\nStefan Schulte;\nLeandro Rometsch",
+        "date_pub": "2025",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Research and Implementation on the Operation and Transaction System Based on Blockchain Technology for Virtual Power Plant",
+        "authors": "Da Li;\nQinglei Guo;\nDesheng Bai;\nWei Zhang",
+        "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain-Based Software Systems: Taxonomy Development",
+        "authors": "Lamia Alashaikh",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain in Action",
+        "authors": "Bina Ramamurthy",
+        "date_pub": "2020",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "CoDAG: An Efficient and Compacted DAG-Based Blockchain Protocol",
+        "authors": "Shu Yang;\nZiteng Chen;\nLaizhong Cui;\nMingwei Xu;\nZhongxing Ming;\nKe Xu",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Hybrid Blockchain Design for Privacy Preserving Crowdsourcing Platform",
+        "authors": "Saide Zhu;\nHuafu Hu;\nYingshu Li;\nWei Li",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Performance Analysis of a Hyperledger Iroha Blockchain Framework Used in the UK Livestock Industry",
+        "authors": "Konstantinos Ntolkeras;\nHossein Sharif;\nSoroush Dehghan Salmasi;\nWilliam Knottenbelt",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A Reputation Management Framework for Knowledge-Based and Probabilistic Blockchains",
+        "authors": "Tara Salman;\nRaj Jain;\nLav Gupta",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Security Assessment Model for Blockchain Software and Hardware Fusion Device Based on Decision Tree Algorithm",
+        "authors": "Ke Yang;\nShuang Sun;\nMingyang Lei;\nWeiyu Wang;\nXiukui Pan",
+        "date_pub": "2023",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Detection of Fake Physical Certificates using a Blockchain-Based Certificate Verification and Issuer Validation System",
+        "authors": "Ankit K C;\nDeepesh Bhandari;\nRojalina Priyadarshini;\nPramod Kumar Meher",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain-Based Charging Coordination Mechanism for Smart Grid Energy Storage Units",
+        "authors": "Mohamed Baza;\nMahmoud Nabil;\nMuhammad Ismail;\nMohamed Mahmoud;\nErchin Serpedin;\nMohammad Ashiqur Rahman",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Mastering Blockchain: A technical reference guide to the inner workings of blockchain, from cryptography to DeFi and NFTs",
+        "authors": "Imran Bashir",
+        "date_pub": "2023",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "ChainSplitter: Towards Blockchain-Based Industrial IoT Architecture for Supporting Hierarchical Storage",
+        "authors": "Gang Wang;\nZhijie Shi;\nMark Nixon;\nSong Han",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "IEEE Guide for an Architectural Framework for Blockchain‐Based Federated Machine Learning",
+        "authors": "Unknown",
+        "date_pub": "2025",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Research on carbon accounting and verification technology for power generation industry based on blockchain",
+        "authors": "Tingting Wen;\nZhe Du;\nQinglei Guo;\nXiukui Pan",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain Explorer based on RPC-based Monitoring System",
+        "authors": "Chaehyeon Lee;\nHeegon Kim;\nSajan Maharjan;\nKyungchan Ko;\nJames Won-Ki Hong",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Unlocking the Potential of Blockchain Integration in Secured Framework of Mental Health",
+        "authors": "Shipra Swati;\nRitesh K. Mishra;\nAlok Kumar;\nRajesh Ingle",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Concept of HAOpsSC: Toward Decentralized Operations for Ensuring High Availability in Consortium Blockchain-based Systems",
+        "authors": "Tatsuya Sato;\nTaku Shimosawa;\nNariyoshi Yamai",
+        "date_pub": "2025",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Toward a Decentralized, Trust-Less Marketplace for Brokered IoT Data Trading Using Blockchain",
+        "authors": "Shaimaa Bajoudah;\nChangyu Dong;\nPaolo Missier",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Scalable Privacy-Preserving Query Processing over Ethereum Blockchain",
+        "authors": "Shlomi Linoy;\nHassan Mahdikhani;\nSuprio Ray;\nRongxing Lu;\nNatalia Stakhanova;\nAli Ghorbani",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Rchain: A Universal and Efficient Redactable Blockchain Scheme",
+        "authors": "Lingyuan Yin;\nJianfeng Shi;\nBin Xie;\nYang Liu",
+        "date_pub": "2025",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain Data Index Method Based on Improved Red-black Tree",
+        "authors": "Ao Xiong;\nWenchuan Ma;\nYu Song;\nDong Wang;\nDa Li;\nGaoming Jin;\nYezhang Cao",
+        "date_pub": "2025",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Containerchain: A Blockchain System Emulator based on Mininet and Containers",
+        "authors": "Saul Gill;\nBrian Lee;\nYuansong Qiao",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "BrokerChain: A Blockchain Sharding Protocol by Exploiting Broker Accounts",
+        "authors": "Huawei Huang;\nZhaokang Yin;\nQinde Chen;\nJian Zheng;\nXiaofei Luo;\nGuang Ye;\nXiaowen Peng;\nZibin Zheng;\nSong Guo",
+        "date_pub": "2025",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A Voting-Based Blockchain Interoperability Oracle",
+        "authors": "Michael Sober;\nGiulia Scaffino;\nChristof Spanring;\nStefan Schulte",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A Blockchain-based Customizable Document Registration Service for Third Parties",
+        "authors": "Pamella Soares;\nRaphael Saraiva;\nIago Fernandes;\nAntônio Neto;\nJerffeson Souza",
+        "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A Survey on Safety Regulation Technology of Blockchain Application and Blockchain Ecology",
+        "authors": "Pengxu Shen;\nSuozai Li;\nMing Huang;\nHaoyu Gao;\nLeixiao Li;\nJun Li;\nHong Lei",
+        "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain-based Electronic Evidence Storage and Efficiency Optimization",
+        "authors": "Zhikun Miao;\nChengxu Ye;\nPing Yang;\nYing Chen;\nYutao Chen",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain based Digital Multimedia Content Authentication System: using IPFS and Ethereum",
+        "authors": "Anurag Pandey;\nJayanti Rout;\nAshutosh Soni;\nSurendra Kumar Nanda",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Research on Digital Finance Based on Blockchain Technology",
+        "authors": "Yuhan Zhu",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "An Evaluation Framework for Assessing IPFS Performance within a Blockchain-Based Healthcare System",
+        "authors": "Ghassan Al-Sumaidaee;\nRami Alkhudary;\nZeljko Zilic;\nAndraws Swidan",
+        "date_pub": "2023",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Design and Application of Product Traceability Blockchain-based Platform",
+        "authors": "Yu Zhang;\nMenglu Jin;\nGuiping Zheng;\nHu Li",
+        "date_pub": "2020",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Research and Application of Renewable Energy Power Consumption Certificate Based on Blockchain",
+        "authors": "Tingting Duan;\nDa Li;\nQinglei Guo;\nHejian Wang;\nDesheng Bai",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Investigating the Application of Nested NFTs on Consortium Blockchain for Enterprise Supply Chain Traceability Management",
+        "authors": "Satoshi Ito;\nTatsuya Sato;\nTakayuki Nagai;\nShinsuke Hasegawa;\nKatsuhiro Fukunaka;\nTaichi Umeda",
+        "date_pub": "2025",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain Implementation for Analysis of Carbon Footprint across Food Supply Chain",
+        "authors": "Denisolt Shakhbulatov;\nArshit Arora;\nZiqian Dong;\nRoberto Rojas-Cessa",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A Novel Blockchain-Based IoT Data Provenance Model",
+        "authors": "Shuang Sun;\nHuayun Tang;\nRong Du",
+        "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Privacy-Preserving and Incentive-Driven Relay-Based Framework for Cross-Domain Blockchain Interoperability",
+        "authors": "Saeed Moradi;\nKoosha Esmaeilzadeh Khorasani;\nSara Rouhani",
+        "date_pub": "2025",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "IDNat-Blockchain: A Concept for Indonesia's National Blockchain",
+        "authors": "Dea Saka Kurnia Putra;\nAntonius Alfari",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Research On Electricity Spot Market Trading System Based On Blockchain Technology",
+        "authors": "Junwei Ma;\nJian Wu;\nWeihua He;\nWenna Zhao;\nYitao Han;\nXiukui Pan;\nJingli Feng",
+        "date_pub": "2023",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Notara: Efficient Blockchain Asset Notarization Service",
+        "authors": "Guillermo Toyos-Marfurt;\nRouwaida Abdallah;\nÁlvaro García-Pérez",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Analysis of Blockchain Technology and its Application in the Field of Radio Monitoring",
+        "authors": "Xiaoying Ma;\nMeiying Wei;\nXiaoli Li;\nXiaofei Zhang",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Application of data storage management system in blockchain-based technology",
+        "authors": "Xinyan Wang;\nJingli Jia;\nYuke Cao;\nJiacheng Du;\nAn Hu;\nYong Liu;\nZhiyong Wang",
+        "date_pub": "2023",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "The Scope for Blockchain Ecosystem",
+        "authors": "Manisha Suri",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A Secure and Flexible Blockchain-Based Offline Payment Protocol",
+        "authors": "Wanqing Jie;\nWangjie Qiu;\nArthur Sandor Voundi Koe;\nJianhong Li;\nYin Wang;\nYaqi Wu;\nJin Li;\nZhiming Zheng",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain – Revolutionize Green Energy Management",
+        "authors": "Pholapatara Ratanasopitkul",
+        "date_pub": "2018",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Research on Deep Forgery Data Identification and Traceability Technology Based on Blockchain",
+        "authors": "Ke Yang;\nDa Li;\nQinglei Guo;\nHejian Wang;\nDesheng Bai;\nXiukui Pan",
+        "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "BlockIPFS - Blockchain-Enabled Interplanetary File System for Forensic and Trusted Data Traceability",
+        "authors": "Emmanuel Nyaletey;\nReza M. Parizi;\nQi Zhang;\nKim-Kwang Raymond Choo",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain Dividing Based on Node Community Clustering in Intelligent Manufacturing CPS",
+        "authors": "Suisheng Li;\nHong Xiao;\nHao Wang;\nTao Wang;\nJingwei Qiao;\nShaofeng Liu",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "An Innovative Blockchain System for Smart Grids",
+        "authors": "Mandana Falahi;\nAndrei Vasilateanu;\nNicolae Goga;\nGeorge Suciu;\nMari-Anais Sachian;\nRobert Florescu;\nHaider Abdullah Ali;\nYi Qian",
+        "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain based Secure and Effective Authentication Mechanism for 5G Networks",
+        "authors": "R Bala;\nR Manoharan",
+        "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A Blockchain-based Service for Public Sector Governance",
+        "authors": "Jiayue Li;\nMin Zhang;\nXiaofeng Jia;\nDingding Lin",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A First Analytics Approach to Cardano",
+        "authors": "Sina Rafati Niya;\nIvana Mesić;\nGeorgios Anagnostou;\nGabriele Brunini;\nClaudio J. Tessone",
+        "date_pub": "2023",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "IEEE Draft Standard for Framework of Blockchain-based Internet of Things (IoT) Data Management",
+        "authors": "Unknown",
+        "date_pub": "2020",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "IEEE Approved Draft Standard for Framework of Blockchain-based Internet of Things (IoT) Data Management",
+        "authors": "Unknown",
+        "date_pub": "2020",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Architectural Design Decisions for Blockchain-Based Applications",
+        "authors": "Maximilian Wöhrer;\nUwe Zdun",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Points Transaction Mechanisms Based on Blockchain Technology",
+        "authors": "Jinfei Wu;\nJiayuan Zhang;\nRongxin Guo;\nWanting Tang",
+        "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain for Embedded System Accountability",
+        "authors": "Michael Chiu;\nAbraham Goldsmith;\nUroš Kalabić",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Decentralized Blockchain-Driven Urban Parking System with IOTA for Management, Reservation, and Payment Integration in Smart Cities",
+        "authors": "Hala Ben Ali;\nLujain Amro;\nSalahaldin Abukhalaf;\nAnastassia Gharib",
+        "date_pub": "2025",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Towards a Cross-Chain Genomic Data Interoperability Framework: Secure and Compliant Federated Data Exchange Using Private Blockchains",
+        "authors": "Fatimah Alakeel;\nBasil Alothman",
+        "date_pub": "2025",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A Security Reference Architecture for Blockchains",
+        "authors": "Ivan Homoliak;\nSarad Venugopalan;\nQingze Hum;\nPawel Szalachowski",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "VAULT: A Scalable Blockchain-Based Protocol for Secure Data Access and Collaboration",
+        "authors": "Justin S. Gazsi;\nSajia Zafreen;\nGaby G. Dagher;\nMin Long",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Review of Modern Blockchain Platforms",
+        "authors": "Daria A. Snegireva",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Research on Power Supply Traceability Mode Based on Blockchain",
+        "authors": "Peng Liu;\nChunyu Deng;\nDazhong Wang",
+        "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Towards Declarative Blockchains: A SHACL-Based Model for Robust and Efficient Transactions",
+        "authors": "Kemafor Anyanwu;\nSogolsadat Mansouri;\nDavid Adei",
+        "date_pub": "2025",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A Semantic Detection Incentive Mechanism For Blockchain Transactions Based on Evolutionary Game Theory in Web3 Ecosystem",
+        "authors": "Zishuai Zhang;\nQinnan Zhang;\nWangjie Qiu;\nHongwei Zheng;\nShuyi Miao;\nWanqing Jie;\nJianming Zhu;\nJin Dong;\nZhiming Zheng",
+        "date_pub": "2025",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Testbed Design and Performance Analysis for Multilayer Blockchains",
+        "authors": "De-Yi Tsai;\nSeth Austin Harding;\nMing-Fong Sie;\nShih-wei Liao",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Decentralized Ticketing: A Blockchain Solution for Secure and Fair Event Access",
+        "authors": "Janhavi Nate;\nMahek Parmar;\nParth Shethia;\nPreem Pareva;\nHezal Lopes",
+        "date_pub": "2025",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Data Security Based on Blockchain Digital Currency",
+        "authors": "Mengyi Xie;\nZuobin Liao;\nLiting Huang",
+        "date_pub": "2020",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Incentivizing Sustainable Behaviour using Blockchain for Ecofriendly Transportation",
+        "authors": "Shivam Barkule;\nPriya Shelke;\nChaitali Shewale;\nSuruchi Dedgoankar;\nPawan Wawage;\nPradnya Kulkarni",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "EduCoin: a Secure and Efficient Payment Solution for MOOC Environment",
+        "authors": "Lingling Lu;\nJianhai Chen;\nZijun Tian;\nQinming He;\nButian Huang;\nYang Xiang;\nZhenguang Liu",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Token-Based Sharing Control for IPFS",
+        "authors": "Shigenori Ohashi;\nHiroki Watanabe;\nTatsuro Ishida;\nShigeru Fujimura;\nAtsushi Nakadaira;\nJunichi Kishigami",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A Hybrid Blockchain Architecture for Privacy-Enabled and Accountable Auctions",
+        "authors": "Harsh Desai;\nMurat Kantarcioglu;\nLalana Kagal",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "NutBaaS: A Blockchain-as-a-Service Platform",
+        "authors": "Weilin Zheng;\nZibin Zheng;\nXiangping Chen;\nKemian Dai;\nPeishan Li;\nRenfei Chen",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A Proxy-Layer Approach to Secure Smart Contract Deployment on Private EVM-Based PoA Blockchains",
+        "authors": "Yonghao Wang;\nJahid Ali;\nJunaid Arshad;\nYunxia Liu",
+        "date_pub": "2023",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Exploring AIoT Blockchain Transaction Semantic Detection and Incentive Mechanism With Evolutionary Game Toward Web 3.0 Ecosystem",
+        "authors": "Qinnan Zhang;\nZishuai Zhang;\nYiran Chen;\nMisha Xu;\nZehui Xiong;\nJiequ Ji;\nWangjie Qiu;\nHongwei Zheng;\nJianming Zhu;\nJin Dong;\nZhiming Zheng",
+        "date_pub": "2025",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A Privacy-Preserving and Efficient Data Sharing Scheme Based on Blockchain in IIoT",
+        "authors": "Hongyan Peng;\nYipeng Yang;\nDongcheng Li;\nPeng Wang;\nPeng Liu",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Resident-Centric Government EV Charging Stations using Blockchain technology",
+        "authors": "Padma J;\nKolli Likhita;\nSunkara Ravi Sailendra Charan;\nGadam Leela Krishna Vani Pradhayi;\nChebrolu Naga Vardhan",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A Permissioned Blockchain Based Access Control System for IOT",
+        "authors": "Md. Azharul Islam;\nSanjay Madria",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Understanding Blockchain Technology: The Costs and Benefits of Decentralization",
+        "authors": "Morgen Peck",
+        "date_pub": "2018",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Research on blockchain consensus algorithm for large-scale high-concurrency power transactions",
+        "authors": "Xuesen Zhang;\nQinglei Guo;\nXiaoxiao Ma;\nZhe Du;\nShuang Sun;\nDesheng Bai",
+        "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A distributed ABAC access control scheme based on blockchain",
+        "authors": "Haichao Wang;\nZhiyu Ren;\nTianpeng Zhang;\nQiuli Wang",
+        "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Research on Distributed Node Resource Optimization Mechanism for Multi-Agent Systems Combined with Blockchain Technology",
+        "authors": "Zihang Yin;\nBing Bai;\nYang Liu;\nTongtong Cheng",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Review of Blockchain Frameworks and Platforms",
+        "authors": "A. Averin;\nO. Averina",
+        "date_pub": "2020",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Research on blockchain technology in cryptographic exploration",
+        "authors": "Yang Cheng;\nHan Shaoqin",
+        "date_pub": "2020",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain-Enabled Smart Contracts: Architecture, Applications, and Future Trends",
+        "authors": "Shuai Wang;\nLiwei Ouyang;\nYong Yuan;\nXiaochun Ni;\nXuan Han;\nFei-Yue Wang",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "An Efficiency Evaluation Model for Designing Optimal Scheduling Mechanisms in N+X Hybrid Blockchain",
+        "authors": "Peipei Wang;\nKun Meng;\nShuqin Li",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Query-chain: Fast and Flexible Blockchain-based Platform for Diverse Application Services",
+        "authors": "Youhawn Seol;\nJaehong Ahn;\nSehyun Park;\nMookeun Ji;\nJeongyeup Paek;\nHeungseok Chae;\nJiheon Yi;\nYoungju Kim",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Bow-tie structure of the Polkadot transfer network",
+        "authors": "Matija Piskorec;\nBen Domenic James Murphy;\nFlorian Rüegsegger;\nSina Rafati Niya;\nClaudio J. Tessone",
+        "date_pub": "2023",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "BlockSIM: A practical simulation tool for optimal network design, stability and planning",
+        "authors": "Santosh Pandey;\nGopal Ojha;\nBikesh Shrestha;\nRohit Kumar",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "ShardingSim: A Modular Committee-Based Sharding Blockchain Simulator",
+        "authors": "Yuehua Wu;\nYunxiao Wang;\nFeihu Yan;\nWenzhi Chen",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Toward a Decentralized Marketplace for Self-Maintaining Machines",
+        "authors": "Daniel Miehle;\nMatthias M. Meyer;\nAndre Luckow;\nBernd Bruegge;\nMichael Essig",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Delay Analysis of Consensus Communication for Blockchain-Based Applications Using Network Calculus",
+        "authors": "Shengcheng Ma;\nShuai Wang;\nWei-Tek Tsai",
+        "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Enterprise Blockchain for Grid Modernization",
+        "authors": "Dr. Claudio Lima",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Understanding Blockchain Technology: The Bitcoin Case Study",
+        "authors": "Morgen Peck",
+        "date_pub": "2018",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Enterprise Blockchain Overview",
+        "authors": "Steve Derezinski",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Implicit Authentication in Neural Key Exchange Based on the Randomization of the Public Blockchain",
+        "authors": "Siwan Noh;\nKyung-Hyune Rhee",
+        "date_pub": "2020",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Fair Work Distribution on Permissioned Blockchains: a Mobile Window Based Approach",
+        "authors": "Ivan Malakhov;\nAndrea Marin;\nSabina Rossi;\nDaria Smuseva",
+        "date_pub": "2020",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "LRB: Locally Repairable Blockchain for IoT Integration",
+        "authors": "Zihan Jiang;\nQi Chen;\nZhihong Deng;\nHe Zhang",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A Privacy-Aware PKI System Based on Permissioned Blockchains",
+        "authors": "Rong Wang;\nJuan He;\nCan Liu;\nQi Li;\nWei-Tek Tsai;\nEnyan Deng",
+        "date_pub": "2018",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A Blockchain handling Data in a Waste Recycling Scenario and Fostering Participation",
+        "authors": "Leonardo Pelonero;\nAndrea Fornaia;\nEmiliano Tramontana",
+        "date_pub": "2020",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain-Powered Financial Service Platform: Enabling P2P Payments, Crowdfunding and Loans",
+        "authors": "Swapnil S. Sonawane;\nDilip Motwani",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Preliminary Discussion of Blockchain Application in Satellite Remote Sensing Data Share",
+        "authors": "Hongjuan Liu;\nGang Wang;\nWenji Li",
+        "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A Blockchain-based for Trustworthy Tourism Service Level Agreement",
+        "authors": "Wanting Tang;\nJiayuan Zhang;\nRongxin Guo",
+        "date_pub": "2023",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "FastChain: Scaling Blockchain System with Informed Neighbor Selection",
+        "authors": "Ke Wang;\nHyong S. Kim",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Bitcoin Options Pricing Using LSTM-Based Prediction Model and Blockchain Statistics",
+        "authors": "Lun Li;\nAli Arab;\nJiqiang Liu;\nJingxian Liu;\nZhu Han",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Enhancing Blockchain Traceability with DAG-Based Tokens",
+        "authors": "Hiroki Watanabe;\nTatsuro Ishida;\nShigenori Ohashi;\nShigeru Fujimura;\nAtsushi Nakadaira;\nKota Hidaka;\nJay Kishigami",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Towards Secure and Decentralized Sharing of IoT Data",
+        "authors": "Hien Thi Thu Truong;\nMiguel Almeida;\nGhassan Karame;\nClaudio Soriente",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "IEEE Draft Standard for Technical Requirements of Digital Collection Services Based on Blockchain Technologies",
+        "authors": "Unknown",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "IEEE Approved Draft Standard for Technical Requirements of Digital Collection Services Based on Blockchain Technologies",
+        "authors": "Unknown",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Rust for Blockchain Application Development: Learn to build decentralized applications on popular blockchain technologies using Rust",
+        "authors": "Akhil Sharma",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Enterprise Blockchain for the Internet of Things",
+        "authors": "David Fragale;\nNancy Ranxing Li",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Enterprise Blockchain for Supply Chain",
+        "authors": "Joseph Francis",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A Blockchain Based Fund Management System for Construction Projects - A Comprehensive Case Study in Xiong'an New Area China",
+        "authors": "Wenlue Song;\nHanyuan Wu;\nHongwei Meng;\nYifu Bian;\nCong Tang;\nJiaqi Xi;\nHaogang Zhu",
+        "date_pub": "2023",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "MACS: A Multi-Asset Coin Selection Algorithm for UTXO-based Blockchains",
+        "authors": "Gholamreza Ramezan;\nManvir Schneider;\nMel McCann",
+        "date_pub": "2023",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "On Sharding Permissioned Blockchains",
+        "authors": "Mohammad Javad Amiri;\nDivyakant Agrawal;\nAmr El Abbadi",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Maximizing Blockchain Performance: Mitigating Conflicting Transactions through Parallelism and Dependency Management",
+        "authors": "Faisal Haque Bappy;\nTarannum Shaila Zaman;\nMd Sajidul Islam Sajid;\nMir Mehedi Ahsan Pritom;\nTariqul Islam",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain Sharding Model for Increasing The Efficiency of The Global Car Rental Industry Based on Blockchain Technology",
+        "authors": "Inayatulloh",
+        "date_pub": "2025",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A Survey on Blockchain Technology: Evolution, Architecture and Security",
+        "authors": "Muhammad Nasir Mumtaz Bhutta;\nAmir A. Khwaja;\nAdnan Nadeem;\nHafiz Farooq Ahmad;\nMuhammad Khurram Khan;\nMoataz A. Hanif;\nHoubing Song;\nMajed Alshamari;\nYue Cao",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain-based Approaches for Secure Federated Learning",
+        "authors": "Lucas Airam C. De Souza;\nGustavo F. Camilo;\nGabriel Antonio F. Rebello;\nLucas C. B. Guimarães;\nMiguel Elias Mitre Campista;\nLuís Henrique Maciel Kosmalski Costa",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain-Based Real Estate Market: One Method for Applying Blockchain Technology in Commercial Real Estate Market",
+        "authors": "Sobhan Latifi;\nYunpeng Zhang;\nLiang-Chieh Cheng",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Towards a Framework for Understanding the Performance of Blockchains",
+        "authors": "Marios Touloupou;\nKlitos Christodoulou;\nAntonis Inglezakis;\nElias Iosif;\nMarinos Themistocleous",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Distributed Application of Blockchain—Taking Cross-Border E-Commerce as an Example",
+        "authors": "Yifu Liu",
+        "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "IEEE Approved Draft Standard for Reference Architecture of Blockchain Fusion Server",
+        "authors": "Unknown",
+        "date_pub": "2025",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Access Control for Electronic Health Records with Hybrid Blockchain-Edge Architecture",
+        "authors": "Hao Guo;\nWanxin Li;\nMark Nejad;\nChien-Chung Shen",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "IEEE Standard for Blockchain-Based Digital Asset Classification",
+        "authors": "Unknown",
+        "date_pub": "2023",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain-based Federated Learning Utilizing Zero-Knowledge Proofs for Verifiable Training and Aggregation",
+        "authors": "Elmira Ebrahimi;\nMichael Sober;\nAnh-Tu Hoang;\nCan Umut Ileri;\nWilliam Sanders;\nStefan Schulte",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Enterprise Blockchain for Healthcare",
+        "authors": "Edward Bukstel;\nSteve Derezinski",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Privacy-Preserving Energy Trading Using Blockchain and Zero Knowledge Proof",
+        "authors": "Dongkun Hou;\nJie Zhang;\nSida Huang;\nZitian Peng;\nJieming Ma;\nXiaohui Zhu",
+        "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "The Blockchain Trilemma Described by a Formula",
+        "authors": "Taishi Nakai;\nAkira Sakurai;\nShiori Hironaka;\nKazuyuki Shudo",
+        "date_pub": "2023",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Demo Paper: Anonymous Authentication on Trust in Blockchain-Based Mobile Crowdsourcing System",
+        "authors": "Guocang Liu;\nHaoxiang Han;\nWenxiu Ding;\nShufan Fei;\nZheng Yan",
+        "date_pub": "2023",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Secured Inter-Healthcare Patient Health Records Exchange Architecture",
+        "authors": "Oluwaseyi Ajayi;\nMeryem Abouali;\nTarek Saadawi",
+        "date_pub": "2020",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain-based Universal Loyalty Platform",
+        "authors": "Mausam Agrawal;\nDivya Amin;\nHarshal Dalvi;\nRiken Gala",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Multi-Blockchain Model for Data Sharing with Bell-LaPadula Access Control",
+        "authors": "H. C. Chong;\nK. L. Eddie Law",
+        "date_pub": "2023",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Enrichment of Blockchain Transaction Management with Semantic Triples",
+        "authors": "Kosala Yapa Bandara;\nSubhasis Thakur;\nJohn Breslin",
+        "date_pub": "2020",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Comparative Studies: Blockchain Technology Applications in GDPR - Representing an Applicability Model",
+        "authors": "Elham Khazaei;\nAbouzar Arabsorkhi",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain Enabled Applications in the Education Domain and Potential Challenges",
+        "authors": "Chetna Achar;\nBharati Wukkadada",
+        "date_pub": "2023",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A master-slave blockchain paradigm and application in digital rights management",
+        "authors": "Zhaofeng Ma;\nWeihua Huang;\nWei Bi;\nHongmin Gao;\nZhen Wang",
+        "date_pub": "2018",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A Preliminary Study of the Impact of Blockchain Technology on Internal Auditing",
+        "authors": "Rubing Liu",
+        "date_pub": "2020",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A Broad Perspective On Integrating Internet Of Things With Blockchain",
+        "authors": "Smita Dange;\nMadhumita Chatterjee",
+        "date_pub": "2020",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A Blockchain Oracle Interoperability Technique for Permissioned Blockchain",
+        "authors": "Asma A. Alhussayen;\nKamal Jambi;\nMaher Khemakhem;\nFathy E. Eassa",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "An Efficient Double-Layer Blockchain Method for Vaccine Production Supervision",
+        "authors": "Shaoliang Peng;\nXing Hu;\nJinglin Zhang;\nXiaolan Xie;\nChengnian Long;\nZhihui Tian;\nHongbo Jiang",
+        "date_pub": "2020",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "IEEE Approved Draft Standard for Entity-Based Risk Mutual Assistance Model through Blockchain Technology",
+        "authors": "Unknown",
+        "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Towards the Optimization of Gas Usage of Solidity Smart Contracts with Code Mining",
+        "authors": "Avik Banerjee;\nCarl Egge;\nStefan Schulte",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Decentralised Redactable Blockchain: A Privacy-Preserving Approach to Addressing Identity Tracing Challenges",
+        "authors": "Jun Wook Heo;\nGowri Ramachandran;\nRaja Jurdak",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Secure and Transparent Blockchain Donations: An Attribute-Based Access Control (ABAC) Framework for Enhanced Donor Control",
+        "authors": "Swati Jadhav;\nNitin Pise",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Transparency in Carbon Credit by Automating Data-Management Using Blockchain",
+        "authors": "Shubham Chakraborty;\nAbhishek Anand;\nDivya Kalash;\nAnupam Srivastava",
+        "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A Carbon Emissions Verification Mechanism Based on Blockchain and Reverse Auction",
+        "authors": "Lixuan Che;\nEntang Li;\nHongwei Xin;\nJianhui Zhang;\nChonghao Xu;\nQiang Li;\nLinrui Li",
+        "date_pub": "2023",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Multi-Level Distributed Caching on the Blockchain for Storage Optimisation",
+        "authors": "Jun Wook Heo;\nAli Dorri;\nRaja Jurdak",
+        "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain Privacy Data Protection Method Based on HEVC Video Steganography",
+        "authors": "Si Liu;\nYunxia Liu;\nCong Feng;\nHongguo Zhao;\nYu Huang",
+        "date_pub": "2020",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain Bridges for Verifiable Credentials in Healthcare - A Cross-Chain Interoperability Approach",
+        "authors": "Alexandru Bratu;\nFlorin Haralambie;\nPurcăruş Raluca-Ioana;\nAlexandru Aloman;\nNicolae Goga",
+        "date_pub": "2025",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A Framework for Asynchronous Cross-Blockchain Smart Contract Calls",
+        "authors": "Michael Sober;\nGiulia Scaffino;\nMarten Sigwart;\nPhilipp Frauenthaler;\nMarkus Levonyak;\nStefan Schulte",
+        "date_pub": "2023",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "BlockSim: Blockchain Simulator",
+        "authors": "Carlos Faria;\nMiguel Correia",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A Decentralized Service-Platform towards Cross-Domain Entitlement Handling",
+        "authors": "Alexander Rech;\nChristian Steger;\nMarkus Pistauer",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain with Machine Learning for Financial Portfolio Management",
+        "authors": "Tianhong Cai;\nJiawei Wu;\nChenyang Yu;\nVladimir Brusic",
+        "date_pub": "2023",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "EMT: Extended Merkle Tree Structure for Inserted Data Redaction in Permissioned Blockchain",
+        "authors": "Zihan Wu;\nLiangmin Wang;\nXiaoyu Zhang;\nXia Feng",
+        "date_pub": "2025",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Evaluation and Demonstration of Blockchain Applicability Framework",
+        "authors": "Sri Nikhil Gupta Gourisetti;\nMichael Mylrea;\nHirak Patangia",
+        "date_pub": "2020",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A Video Security Verification Method Based on Blockchain",
+        "authors": "Zhenghang Zhao;\nYunxia Liu;\nHongguo Zhao;\nYonghao Wang",
+        "date_pub": "2023",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A Distributed Clock Synchronization Protocol for Proof of Stake Blockchains",
+        "authors": "Yuya Miki;\nKazuyuki Shudo",
+        "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain's role in supporting circular supply chains in the built environment",
+        "authors": "Qian Li;\nYingli Wang",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "InterTrust: Towards an Efficient Blockchain Interoperability Architecture with Trusted Services",
+        "authors": "Gang Wang;\nMark Nixon",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain’s Future Role in Cybersecurity. Analysis of Defensive and Offensive Potential Leveraging Blockchain-Based Platforms",
+        "authors": "Artur Rot;\nBartosz Blaicke",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A consortium blockchain paradigm on hyperledger-based peer-to-peer lending system",
+        "authors": "Xueyun Zeng;\nNinghua Hao;\nJunchen Zheng;\nXuening Xu",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain Based Log System",
+        "authors": "Jiansen Huang;\nHui Li;\nJiyang Zhang",
+        "date_pub": "2018",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Proposed Architecture of Integrate Blockchain With VAT System in Oman",
+        "authors": "Myrna Mohamad;\nKhoula Al Harthy",
+        "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Scope and Challenges of IoT and Blockchain Integration",
+        "authors": "Sara Shree;\nMonika Sharma",
+        "date_pub": "2023",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "IEEE Standard for Data Format for Blockchain Systems",
+        "authors": "Unknown",
+        "date_pub": "2020",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain Vulnerabilities and Recent Security Challenges: A Review Paper",
+        "authors": "Aysha AlFaw;\nWael Elmedany;\nMhd Saeed Sharif",
+        "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "IEEE Draft Guide for Blockchain in Power and Energy Systems",
+        "authors": "Unknown",
+        "date_pub": "2025",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "TrustChain: Trust Management in Blockchain and IoT Supported Supply Chains",
+        "authors": "Sidra Malik;\nVolkan Dedeoglu;\nSalil S. Kanhere;\nRaja Jurdak",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A Privacy Protection Scheme for Permissioned Blockchain Based on Trusted Execution Environment",
+        "authors": "Ronghao Zhou;\nZijing Lin",
+        "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Adoptation of Blockchain of Things(BCOT): Oppurtunities & Challenges",
+        "authors": "Abhay Kumar Yadav;\nVirendra Prasad Vishwakarma",
+        "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Hiding Data into Blockchain-based Digital Video for Security Protection",
+        "authors": "Hongguo Zhao;\nYunxia Liu;\nYonghao Wang;\nYu Huang",
+        "date_pub": "2020",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Voting Based CrowdFunding Using Ethereum Blockchain",
+        "authors": "Siddhesh Bajad;\nSonali Patil;\nKartikesh Ambavade;\nRohini Pise",
+        "date_pub": "2023",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A Medical Data Sharing Scheme Based on Blockchain Attribute-Based Searchable Encryption",
+        "authors": "Yan Li;\nGuofeng Zhang;\nBin Feng;\nShihao Yang",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Decentralized and Collaborative AI on Blockchain",
+        "authors": "Justin D. Harris;\nBo Waggoner",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "BlockV: A Blockchain Enabled Peer-Peer Ride Sharing Service",
+        "authors": "Panchalika Pal;\nSushmita Ruj",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Taking Attacks to the Next Level: A Framework for Front-Running Attacks on Blockchain Systems",
+        "authors": "Zihan Wang;\nYusen Wang;\nChentian Yuan;\nNa Ruan;\nJie Li;\nJiong Lou",
+        "date_pub": "2025",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Performance Evaluation of different Hyperledger Sawtooth transaction processors for Blockchain log storage with varying workloads",
+        "authors": "Konstantinos Moschou;\nAnastasia Theodouli;\nSofia Terzi;\nKonstantinos Votis;\nDimitrios Tzovaras;\nDimitrios Karamitros;\nSotiris Diamantopoulos",
+        "date_pub": "2020",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Proteus: A Scalable BFT Consensus Protocol for Blockchains",
+        "authors": "Mohammad M. Jalalzai;\nCostas Busch;\nGolden G. Richard",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Supplier Selection in Healthcare using Blockchain",
+        "authors": "Twinkle Kumari;\nManisha Singh;\nGaurav Baranwal;\nAnil Kumar Tripathi",
+        "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Leveraging Blockchain and RFID/NFC Technology for Secure and Traceable Logistics for Documents With Digital Twin",
+        "authors": "Terry C. Y. Ng;\nDennis Y. W. Liu;\nAlven C. Y. Leung",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Review of Most Popular Open-Source Platforms for Developing Blockchains",
+        "authors": "Collin Connors;\nDilip Sarkar",
+        "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Achieving Load Balancing in Blockchain Sharding Based on Multi-Objective Optimization",
+        "authors": "Yong Wang;\nYouquan Xian;\nXueying Zeng;\nDongcheng Li;\nZhengdong Hu;\nPeng Liu",
+        "date_pub": "2025",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Study of Traceability System of Renewable Energy Power Trading Based on Blockchain Technology",
+        "authors": "Qing Zhang;\nTao Xu;\nDong Wang;\nZijian Liu;\nChuanyuan Cheng;\nShangzhuo Zheng;\nGangpeng Wang",
+        "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain System Prototype for the Tasks of Metallurgical and Machine-Building Enterprises",
+        "authors": "Daria A. Snegireva",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain: The new era of Technology",
+        "authors": "Riya Sapra;\nParneeta Dhaliwal",
+        "date_pub": "2018",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Enhancing the Security of E-Healthcare Transactions Using Hyperledger Fabric Modular Blockchain Framework",
+        "authors": "Munish Katoch;\nKavita Devi;\nAnuj Sharma;\nPrikshat Kumar Angra;\nPritpal Singh;\nAshwani Kumar",
+        "date_pub": "2023",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Research on analysis and design of cloud ERP based on blockchain technology",
+        "authors": "Xaysomphone Thipphonexai;\nYan Guanghui",
+        "date_pub": "2020",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Challenges of Blockchain adoption in financial services in China's Greater Bay Area",
+        "authors": "Xiongfei Zhao;\nYain-Whar Si",
+        "date_pub": "2023",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "IEEE Approved Draft Guide for Blockchain in Power and Energy Systems",
+        "authors": "Unknown",
+        "date_pub": "2025",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A Blockchain Proxy for Lightweight IoT Devices",
+        "authors": "Gero Dittmann;\nJens Jelitto",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Risk Analysis Methodology to Blockchain-based Solutions",
+        "authors": "Sergio Luis Ribeiro;\nIngrid Alves de Paiva Barbosa",
+        "date_pub": "2020",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Implementation of Blockchain based Electronic Health Record System using Java Eclipse and MongoDB",
+        "authors": "Mehar Nasreen;\nSunil Kumar Singh",
+        "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain Technology and Its application Research in Supply Chain Financial Risk Control",
+        "authors": "Hongjun Cui",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "An Information Sharing Prototype System of Ship Integrated Logistics Support Based on Blockchain",
+        "authors": "Qi Wang;\nJun Yin;\nPing Qian;\nShilun Ge",
+        "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "On Addressing Governance Challenges in Blockchain Networks",
+        "authors": "Sokratis Vavilis;\nHarris Niavis;\nLucía Recolons García-Mauriño",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Securing Medical Records Using Private Blockchain Technology",
+        "authors": "Basil Alothman;\nMariam Alenezi;\nDanah Alhamdan;\nMariam Almutairat;\nZahraa Almousa;\nChibli Joumaa;\nMurad Khan",
+        "date_pub": "2023",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Lockless Transaction Isolation in Hyperledger Fabric",
+        "authors": "Hagar Meir;\nArtem Barger;\nYacov Manevich;\nYoav Tock",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A Blockchain-based Testing Approach for Collaborative Software Development",
+        "authors": "Stephen S. Yau;\nJinal S. Patel",
+        "date_pub": "2020",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Implementation of Digital Log-book System for Lifts and Escalators Based on Blockchain Technology",
+        "authors": "Wai-Keung Yeung;\nM.K. Tong Stephen;\nY.K. Wong Jerry;\nMentor Cheung;\nK.Y. Cheung Ashley;\nGraham Lui;\nK.K. Cheng Kevin",
+        "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Decentralized and Self-Sovereign Identity in the Era of Blockchain: A Survey",
+        "authors": "Yirui Bai;\nHong Lei;\nSuozai Li;\nHaoyu Gao;\nJun Li;\nLeixiao Li",
+        "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain Interoperability through Bridges: A Token Transfer Perspective",
+        "authors": "Luca Olivieri;\nAradhita Mukherjee;\nNabendu Chaki;\nAgostino Cortesi",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Implementation of Blockchain in Financial Sector to Improve Scalability",
+        "authors": "Sheetal Sinha;\nKumkum;\nRuchika Bathla",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "HiCoCS: High Concurrency Cross-Sharding on Permissioned Blockchains",
+        "authors": "Lingxiao Yang;\nXuewen Dong;\nZhiguo Wan;\nDi Lu;\nYushu Zhang;\nYulong Shen",
+        "date_pub": "2025",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "The Efficient use of Blockchain for Reducing Frauds in Parental Property Distribution",
+        "authors": "Sandeep Rathor;\nAnkit Agrawal;\nD. P. Yadav",
+        "date_pub": "2020",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Efficient Quering Blockchain Applications",
+        "authors": "Noha Ahmed Thabet;\nNashwa Abdelbaki",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A Survey on Decentralized Application based On Blockchain Platform",
+        "authors": "Rajkumar Banoth;\nMaharshi B. Dave",
+        "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "HealthGuard: Blockchain-Powered Healthcare Data Security",
+        "authors": "Suja A. Alex;\nEuclides Lourenço Chuma;\nGabriel Caumo Vaz;\nGabriel Gomes de Oliveira",
+        "date_pub": "2023",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "HAC-Bchain: A Secure and Scalable Blockchain-Shard Based E-Voting System",
+        "authors": "Sohel Ahmed Joni;\nRabiul Rahat;\nNishat Tasnin;\nPartho Ghose;\nLoveleen Gaur",
+        "date_pub": "2023",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain-based Model for Trading Smart Contracts for Shared Energy Generation in Brazil",
+        "authors": "Paula Zenni Lodetti;\nBeatriz Batista Cardoso;\nO. B. Luis Gustavo Ulhoa;\nLuciano Benvenuti Roncalio;\nLucas de Paula A. Pinheiro;\nOrlando Da Silva Santos;\nMarcos A. Izumida M;\nDiogo Vinícius João",
+        "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Design Requirements for Secured and Cost-Efficient Blockchain-Based Data Exchange Frameworks in Healthcare",
+        "authors": "Shahrin Chowdhury;\nAnca Delia Jurcut",
+        "date_pub": "2023",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Drawing the Boundaries Between Blockchain and Blockchain-Like Systems: A Comprehensive Survey on Distributed Ledger Technologies",
+        "authors": "Badr Bellaj;\nAafaf Ouaddah;\nEmmanuel Bertin;\nNoel Crespi;\nAbdellatif Mezrioui",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Unlocking the Potential of Interconnected Blockchains: A Comprehensive Study of Cosmos Blockchain Interoperability",
+        "authors": "Mritunjay Shall Peelam;\nBrijesh Kumar Chaurasia;\nAditya Kumar Sharma;\nVinay Chamola;\nBiplab Sikdar",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Building Ethereum Dapps: Decentralized applications on the Ethereum blockchain",
+        "authors": "Roberto Infante",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "BA-CPABE : An auditable Ciphertext-Policy Attribute Based Encryption Based on Blockchain",
+        "authors": "Jingyi Wang;\nCheng Huang;\nYiming Ma;\nHuiyuan Wang;\nChao Peng;\nHouHui Yu",
+        "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Study of Blockchain Forensics and Analytics tools",
+        "authors": "Dinesh P Srivasthav;\nLakshmi Padmaja Maddali;\nR Vigneswaran",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Prioritised Sharding: A Novel Approach to Enhance Blockchain Scalability",
+        "authors": "Fahad Rahman;\nChafiq Titouna;\nFarid Nait-Abdesselam",
+        "date_pub": "2023",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain-Based Decentralized Platform for Electronic Health Records Management",
+        "authors": "Siddhesh Ballal;\nYash Chandre;\nRohini Pise;\nBabita Sonare;\nSonali Patil",
+        "date_pub": "2023",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "DGChain: Data control version for trustworthy reproducibility with Blockchain",
+        "authors": "Jose Armando Hernandez",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Research on Blockchain Reshaping Integrated Enterprise Financial Information System in Digital Era",
+        "authors": "Hui Wu;\nYu Wang",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain Solutions for Nursing: A New Paradigm in Healthcare Security and Data Management",
+        "authors": "Ranjit Kumar;\nRanjana Chavan;\nVishal S. Shirsath;\nSuyog Sanjay Gharat;\nKartik Sudhir Patil",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Yugala: Blockchain Based Encrypted Cloud Storage for IoT Data",
+        "authors": "Sarada Prasad Gochhayat;\nEranga Bandara;\nSachin Shetty;\nPeter Foytik",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A Fully Decentralized Time-Lock Encryption System on Blockchain",
+        "authors": "Wei-Jr Lai;\nChih-Wen Hsueh;\nJa-Ling Wu",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "SSP: Self-Sovereign Privacy for Internet of Things Using Blockchain and MPC",
+        "authors": "Tiffany Hyun-Jin Kim;\nJoshua Lampkins",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "OpBench: A CPU Performance Benchmark for Ethereum Smart Contract Operation Code",
+        "authors": "Amjad Aldweesh;\nMaher Alharby;\nMaryam Mehrnezhad;\nAad Van Moorsel",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Remote Configuration of Integrated Circuit Features and Firmware Management via Smart Contract",
+        "authors": "Md Nazmul Islam;\nSandip Kundu",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Interoperable Blockchain Solution For Digital Identity Management",
+        "authors": "Sudeep Choudhari;\nSuman Kumar Das;\nShubham Parasher",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "IEEE Standard for Reference Architecture of Blockchain Fusion Server",
+        "authors": "Unknown",
+        "date_pub": "2025",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain-Based Privacy-Preserving and Accountable Mobile Edge Outsourcing Computing Framework for the Metaverse",
+        "authors": "Chunpei Li;\nChen Liu;\nPeng Liu;\nXianxian Li;\nWangjie Qiu;\nLei Lei;\nYanli Jin",
+        "date_pub": "2025",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Economic Analysis of Blockchain Technology on Digital Platform Market",
+        "authors": "Hyojung Lee;\nKiwoon Sung;\nKyusang Lee;\nJaeseok Lee;\nSeungjai Min",
+        "date_pub": "2018",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain-Based Zero Knowledge Proof Platform With Secure Common Reference String",
+        "authors": "Moonhyeon Chung;\nChanik Park",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "IEEE Standard for the Reference Architecture of Blockchain as a Service",
+        "authors": "Unknown",
+        "date_pub": "2025",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A Comprehensive Investigation of Blockchain Technology's Role in Cyber Security",
+        "authors": "Rahul Raj Dixit;\nGokulapriya R",
+        "date_pub": "2023",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A Scalable Blockchain-based Smart Contract Model for Decentralized Voltage Stability Using Sharding Technique",
+        "authors": "Kimia Honari;\nXiaotian Zhou;\nSara Rouhani;\nScott Dick;\nHao Liang;\nYunwei Li;\nJames Miller",
+        "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Automated Gateways: A Smart Contract-Powered Solution for Interoperability Across Blockchains",
+        "authors": "Koosha Esmaeilzadeh Khorasani;\nSara Rouhani;\nRui Pan;\nVahid Pourheidari",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain-Based Smart Contract for E-Bidding System",
+        "authors": "Praveensankar Manimaran;\nR. Dhanalakshmi",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "An Intrinsic Review on Securitization using Blockchain",
+        "authors": "Varun Chandra Gupta;\nSaheb Gabadia;\nMenita Agarwal;\nKrishna Samdani",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Reliable Blockchain-Based KYC Model for Blacklist Records in Insurance",
+        "authors": "Bulut Karadag;\nAbdul Halim Zaim;\nAkhan Akbulut",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Customer Data Sharing Platform: A Blockchain-Based Shopping Cart",
+        "authors": "Ajay Kumar Shrestha;\nSandhya Joshi;\nJulita Vassileva",
+        "date_pub": "2020",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain and Smart Contracts for Telecommunications: Requirements vs. Cost Analysis",
+        "authors": "Nima Afraz;\nFrancesc Wilhelmi;\nHamed Ahmadi;\nMarco Ruffini",
+        "date_pub": "2023",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Meepo: Multiple Execution Environments per Organization in Sharded Consortium Blockchain",
+        "authors": "Peilin Zheng;\nQuanqing Xu;\nZibin Zheng;\nZhiyuan Zhou;\nYing Yan;\nHui Zhang",
+        "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain as a Resilient Infrastructure for e-Business Transactions",
+        "authors": "Mohammad Al Khaldy;\nGaram Alshdifat;\nTrad Almalahmeh;\nAmjad Aldweesh",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Design and Implementation of Digital Transaction System Based on Blockchain Environment",
+        "authors": "Han Deng;\nYan Cheng;\nHongwei Qiu;\nMeiyan Pang;\nPeiyuan Zhu;\nHui Zhao;\nYujie Hong",
+        "date_pub": "2020",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Intellectual-Property Blockchain-Based Protection Model for Microfilms",
+        "authors": "Wei-Tek Tsai;\nLibo Feng;\nHui Zhang;\nYue You;\nLi Wang;\nYao Zhong",
+        "date_pub": "2017",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A Privacy-Preserving Voting Protocol on Blockchain",
+        "authors": "Wenbin Zhang;\nYuan Yuan;\nYanyan Hu;\nShaohua Huang;\nShengjiao Cao;\nAnuj Chopra;\nSheng Huang",
+        "date_pub": "2018",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Reverse blockchain technology and its application to improve the quality of control systems in conditions of network instability",
+        "authors": "Volodymyr Khilenko;\nAndrii Zinchenko;\nOleksii Stepanov",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Towards Robust Consensus for Intelligent Decision-making in IoT Blockchain Networks",
+        "authors": "Charles Rawlins;\nS. Jagannathan",
+        "date_pub": "2023",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain-based IoT security authentication system",
+        "authors": "Zhang Gong-Guo;\nZhou Wan",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Investigating Quality Requirements for Blockchain-Based Healthcare Systems",
+        "authors": "Mohamad Kassab;\nJoanna DeFranco;\nTarek Malas;\nGiuseppe Destefanis;\nValdemar Vicente Graciano Neto",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A method of image privacy protection based on blockchain technology",
+        "authors": "Xueying Dong",
+        "date_pub": "2018",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "ZipZap: A Blockchain Solution for Local Energy Trading",
+        "authors": "Mario Felipe Munoz;\nKaiwen Zhang;\nFatima Amara",
+        "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Location-aware Verification for Autonomous Truck Platooning Based on Blockchain and Zero-knowledge Proof",
+        "authors": "Wanxin Li;\nCollin Meese;\nZijia Gary Zhong;\nHao Guo;\nMark Nejad",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Enhancing Cross-Border Data Sharing in Blockchain Networks: A Compliance-Centric Approach Ensuring Anonymity and Traceability",
+        "authors": "Sheng Peng;\nDi Sun;\nLinkai Zhu;\nHongtu Zhou;\nXueshuai Zhang;\nChenchang Cui",
+        "date_pub": "2023",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain application within Net-Zero Energy Factories. A cost-benefit analysis for a German carpentry",
+        "authors": "Pio Lombardi;\nSandeep Yadav Mattepu;\nBartlomiej Arendarski;\nMarc Richter;\nPrzemyslaw Komarmicki",
+        "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Research on Autonomous and Controllable High-performance Consensus Mechanism of Blockchain",
+        "authors": "Yang Chengfu",
+        "date_pub": "2020",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain Solutions for Local Energy Market",
+        "authors": "Roberta Terruggia;\nGiuseppe Mauri;\nCarlo Tornelli;\nAlessandro Zani",
+        "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "DataHarbour: Enabling Decentalized AI Data Marketplace using Blockchain",
+        "authors": "Maheak Dave;\nAwantika Saraf;\nRishabh Kumar;\nRituparna Bhattacharya",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "PassChain: A Blockchain-Based Decentralized Password Manager",
+        "authors": "Nur Adnan Chowdhury Anik;\nMd. Sabbir Hossain;\nHabibur Rahman;\nUmmay Khadiza Rumpa;\nJoy Datta;\nRifat Nawaz;\nSagar Karmoker;\nMd. Adib Khan;\nMahamudul Hasan",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain-Enabled Smart Lock System Using IOTA for Enhanced Smart Home Access Control",
+        "authors": "Batool Allan;\nYara Rahhal;\nSalahaldin Abukhalaf;\nAnastassia Gharib",
+        "date_pub": "2025",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Towards Adoption of Green Blockchain with Emphasis on Blockchain Type, Consensus Protocols, Data Sharding and Smart Contracts",
+        "authors": "Shraddha Phansalkar;\nDeepa Mishra;\nNeha Chaube;\nRahul Sonkamble",
+        "date_pub": "2023",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "File Sharing System using Cryptographic Hash",
+        "authors": "Raj Shah;\nGunj Waghela;\nYashvi Soni;\nPriyanshi Jain;\nHezal Lopes",
+        "date_pub": "2025",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Research on Blockchain Smart Contract Optimization for Power Business Scenarios",
+        "authors": "Zhuofan Wu;\nWenhao Xue;\nXinnan Wang",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "IEEE Draft Standard for Blockchain Interoperability - Data Authentication and Communication Protocol",
+        "authors": "Unknown",
+        "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "IEEE Standard for Entity-Based Risk Mutual Assistance Model through Blockchain Technology",
+        "authors": "Unknown",
+        "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Enhancing KYC Systems through Stroj Decentralized Storage Network in Blockchain Technology",
+        "authors": "Kumaraguru V;\nK.C. Nithyasree;\nN. Palanivel;\nV.T. Rithikka;\nG. Keerthana;\nP. Nidheshwar",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Cost Fairness for Blockchain-Based Two-Party Exchange Protocols",
+        "authors": "Matthias Lohr;\nBenjamin Schlosser;\nJan Jürjens;\nSteffen Staab",
+        "date_pub": "2020",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "TDL-Chain: An Intelligent Data Transmission Control System in Tactical Data Link Based on Blockchain",
+        "authors": "Xuetao Yang;\nYafeng Li;\nLiang Chen;\nWei Feng;\nZheng Yan",
+        "date_pub": "2020",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "ColouredChain - Exploring Alternatives to a Network of Homogeneous Consortium Blockchains for Complex and Composite Decentralized Systems",
+        "authors": "Rituparna Bhattacharya;\nPrashnatita Pal;\nMd. Abdul Aziz Al Aman;\nSompurna Bhadra",
+        "date_pub": "2025",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A Full-Spectrum Blockchain-as-a-Service for Business Collaboration",
+        "authors": "Yaoliang Chen;\nJingxiao Gu;\nShi Chen;\nSheng Huang;\nX. Sean Wang",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "E-Governance: A Tendering Framework Using Blockchain With Active Participation of Citizens",
+        "authors": "Yashita Goswami;\nAnkit Agrawal;\nAshutosh Bhatia",
+        "date_pub": "2020",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain Technologies in 5g and Beyond Connections: A Review of the Taxonomy, Practice Area, Prospects, and Challenges",
+        "authors": "Aseem Aneja",
+        "date_pub": "2023",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Usage of Blockchain MetaMask for Fundraising",
+        "authors": "Sunitha Guruprasad;\nAaron Lobo;\nAjith M D",
+        "date_pub": "2023",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Revolutionizing Collectibles Trading with Youtooz’s Blockchain-Based Platform",
+        "authors": "Mawadah Almuhnna;\nNuha Bahatheq;\nDalal Aldossary;\nNidal Nasser",
+        "date_pub": "2023",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Traceability System for Rare Chinese Herbal Medicines Based on Blockchain Structure",
+        "authors": "Huizhong Liu;\nJia Dong;\nSuli Ge",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Exploring Blockchain Frameworks and Their Comprehensive Analysis Based on Key Metrics",
+        "authors": "Neha Sharma;\nNaveen Kumar;\nRajesh Kumar Kaushal",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A Blockchain Based Credential Verification System using IPFS",
+        "authors": "Swatesh Kumar Ambast;\nT A Sumesh",
+        "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A Decentralized Secure Mailbox System based on Blockchain",
+        "authors": "Xianglong Bao",
+        "date_pub": "2020",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Enhancing Security Feature in Financial Transactions using Multichain Based Blockchain Technology",
+        "authors": "Arman Raj;\nAvneesh Kumar;\nVandana Sharma;\nSeema Rani;\nAnkit Kumar Shanu",
+        "date_pub": "2023",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Security Assessment of Blockchains in Heterogenous IoT Networks : Invited Presentation",
+        "authors": "Jay Jemal;\nKevin T. Kornegay",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Current Cybersecurity Challenges of Applying Blockchain in Healthcare",
+        "authors": "Nahla F AL Hamad;\nJing-Chiou Liou",
+        "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Property Fraud Detection And Prevention Using Blockchain",
+        "authors": "Varid Verma;\nSwati Priya;\nSomya Mishra;\nRojalina Priyadarshini;\nRachita Misra",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A Systematic Examination of Decentralized Ledger Applications using Ethereum and Hyperledger Fabric Models in a Blockchain Network",
+        "authors": "Phani Prasad Pothavarjula;\nB Sirisha;\nT. Srikanth;\nB. Ranjith Kumar",
+        "date_pub": "2023",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Securing Transactions Using Permissioned Blockchain Technology: The Case of the Egyptian Real Estate Sector",
+        "authors": "Sara Salah Abo Halawa;\nGhada El Khayat;\nYasser Abd El Ghaffar",
+        "date_pub": "2025",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain-Based Coal Mining Concession Production Monitoring System",
+        "authors": "Mutiara Marpaung;\nPujianto Yugopuspito",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "BCDM - A decision and operation model for blockchains",
+        "authors": "Diana Dabboussi;\nFrank Victor;\nWolfgang Prinz",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Developing more Reliable News Sources by utilizing the Blockchain technology to combat Fake News",
+        "authors": "Panayiotis Christodoulou;\nKlitos Christodoulou",
+        "date_pub": "2020",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A Novel Blockchain-Based Federal Learning Framework with Multiple Appendable Sidechains",
+        "authors": "Haidong Gaolst;\nNing Lin;\nGuolin Tan;\nFaming Hu;\nShuxia Liu;\nZhuo Zhan;\nHuan Yi;\nHui Yang;\nMingyi Zhang;\nYanyi Rao",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain-based Framework for Construction Regulations Monitoring",
+        "authors": "Mariam Al Suwaidi;\nMohamad Humaid Almarri;\nOsama Abu Rahmeh;\nKhaled Almiani",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "BeerReview: A Blockchain-enabled Peer Review Platform",
+        "authors": "Guodong Jin;\nZihan Zhou;\nWenzheng Tang;\nKanglei Yu;\nHao Xu;\nErwu Liu",
+        "date_pub": "2025",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Carboncoin: Blockchain Tokenization of Carbon Emissions with ESG-based Reputation",
+        "authors": "Oscar Golding;\nGuangsheng Yu;\nQinghua Lu;\nXiwei Xu",
+        "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Research on the Application of Blockchain in the Safe and Trusted Sharing of Government Data",
+        "authors": "Heng Zhang;\nWenguo Liu",
+        "date_pub": "2023",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Comparative Research On Blockchain Consensus Algorithms",
+        "authors": "Yuran Xiong;\nChunan Hu",
+        "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Design And Implementation of Public Distribution System Using Blockchain",
+        "authors": "Valarmathi V;\nSakthi Mahendran R;\nSabari Srinivas H",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Decentralized Applications for Agricultural Supply Chain: Exploring the Potential on the Ethereum Blockchain using Smart Contracts",
+        "authors": "Madhuri Jalagam;\nR. Naga Thanuja;\nY. Leela Vaishnavi;\nK. Naresh;\nV.G. Suryakanth",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "The Utilization of Blockchain Technology for Mitigating The Prevalence of Counterfeit Electronic Drug Prescriptions",
+        "authors": "Surjandy;\nCadelina Cassandra;\nStefanus Rumangkit",
+        "date_pub": "2023",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Dynamic Investment Strategy of Blockchain Technology for Shipping Company",
+        "authors": "Zhongmiao Sun;\nYike Xi",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Decentralized Microservices-based Framework for Disaster Resource Allocation using Blockchain",
+        "authors": "Abeer Abdel Khaleq;\nSagar Gupta",
+        "date_pub": "2025",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Research on digital copyright blockchain technology",
+        "authors": "Jun Guo;\nHongbo Zhou;\nLan Yang;\nXuhui Chen",
+        "date_pub": "2020",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Research on Trust Measurement of Terminal Equipment Based on Device Fingerprint",
+        "authors": "Jiaqi Peng;\nKe Yang;\nJiaxing Xuan;\nDa Li;\nLei Fan",
+        "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A blockchain based framework for information system integrity",
+        "authors": "Mahalingam Ramkumar",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A Blockchain Distributed Computing Resource Scheduling Balancing Method Based on Variance Ratio",
+        "authors": "Xiaofeng Chen;\nXiangjuan Jia;\nLu Zhang;\nLiang Cai",
+        "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Detecting Blockchain Security Threats",
+        "authors": "Benedikt Putz;\nGünther Pernul",
+        "date_pub": "2020",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Securely Boosting Chain Growth and Confirmation Speed in PoW Blockchains",
+        "authors": "Ovia Seshadri;\nVinay J Ribeiro;\nAditya Kumar",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Performance and Cost Evaluation of Public Blockchain: An NFT Marketplace Case Study",
+        "authors": "Mohammadreza Rasolroveicy;\nMarios Fokaefs",
+        "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Research on architecture and smart contract of household intelligent power service platform based on blockchain",
+        "authors": "Danping Zou;\nXuesong Shao;\nXiao Chen",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A Review of Lightweight Blockchain Technology Implementation to the Internet of Things",
+        "authors": "Delphi Hanggoro;\nRiri Fitri Sari",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A Blockchain-based key Management Scheme for Named Data Networking",
+        "authors": "Junjun Lou;\nQichao Zhang;\nZhuyun Qi;\nKai Lei",
+        "date_pub": "2018",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Implementation and Testing of a Blockchain based Recruitment Management System",
+        "authors": "Nivedita Swapna Dhanala;\nRadha D.",
+        "date_pub": "2020",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A Trustable and Traceable Blockchain-based Secondhand Market with Committee Consensus",
+        "authors": "Sida Huang;\nDongkun Hou;\nZitian Peng;\nYuji Dong;\nJie Zhang",
+        "date_pub": "2023",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Application Research on Blockchain-based Steel Structure Traceability Management",
+        "authors": "Ye Sun;\nFeng Zhang;\nWeijie Xia;\nYaohua Chen",
+        "date_pub": "2020",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Exploring the Role of Blockchain in Crowdfunding: Opportunities and Challenges in India",
+        "authors": "G Krithick;\nK Hemanth;\nD Chandhan Reddy;\nJ. Arunnehru",
+        "date_pub": "2023",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Securing Pharmaceutical Drug Supply Chain System using Blockchain based Hyperledger Fabric*",
+        "authors": "Jayashree S. Mohite;\nVijay K. Kale",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Two-ticket System Optimization for Power Grid Enterprise Safety Production based on Blockchain Technology",
+        "authors": "Chengwei Huang;\nChengxiu Zhou;\nMingzeng Zhu;\nPeng Jin;\nXiaobo Luo",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A Blockchain-Based Framework for Efficient and Secure E-Certification Sharing and Verification",
+        "authors": "Mahmoud Obaid;\nAllam Abumwais;\nRami Hodrob;\nSuhail Odeh",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Implementing Blockchain and Smart Encryption for Immutable Purchase and Generates Digital Ownership Certificates",
+        "authors": "Arshdeep Singh Sodhi;\nSanjana Das;\nSathyapriya Loganathan",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Implementation of Blockchain Technology Using Hash Method in Java for Medical Record Application Development",
+        "authors": "Tryan Jaya;\nSalvator Elto Nugraha;\nGabriel Rolly Davinsi;\nJurike V. Moniaga;\nBakti Amirul Jabar",
+        "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Permissionless and Permissioned, Technology-Focused and Business Needs-Driven: Understanding the Hybrid Opportunity in Blockchain Through a Case Study of Insolar",
+        "authors": "Henry M. Kim;\nHjalmar Turesson;\nMarek Laskowski;\nAmir Fard Bahreini",
+        "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain Standards and Government Applications",
+        "authors": "Christiana Aristidou;\nEvdokia Marcou",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "SV-DEMR: An Electronic Medical Record Data Sharing Scheme Based on Searchable and Verifiable Encryption via Consortium Blockchain",
+        "authors": "Yi Zhang;\nShiqiong Lin;\nJinyi Zhao",
+        "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Understanding Fusion of Internet of Vehicles with Blockchain : IoV and Blockchain",
+        "authors": "Arman Rasool Faridi;\nRahul Singh;\nFaraz Masood",
+        "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "InterAcct: Access Control for Permissioned Blockchain Interoperation",
+        "authors": "Tirthankar Sengupta;\nBishakh Chandra Ghosh;\nSandip Chakraborty;\nShamik Sural",
+        "date_pub": "2025",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain-based Token Platforms for Incentivizing Citizen Science: Case of the YOMA Reward Token",
+        "authors": "Sana Amjad;\nMirella Bärnthaler;\nChibuzor Joseph Udokwu;\nStefan Craß;\nEbtehal Nassar;\nVinzenz Treytl",
+        "date_pub": "2025",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "On Comparing Software Quality Metrics of Traditional vs Blockchain-Oriented Software: An Empirical Study",
+        "authors": "Marco Ortu;\nMatteo Orrú;\nGiuseppe Destefanis",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "An Edge Computing Data Privacy-Preserving Scheme Based on Blockchain and Homomorphic Encryption",
+        "authors": "Guangxia Xu;\nJiajun Zhang;\nLing Wang",
+        "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Protecting Blockchain-based Decentralized Timed release of Data from Malicious Adversaries",
+        "authors": "Jingzhe Wang;\nBalaji Palanisamy",
+        "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "MB-EHR: A Multilayer Blockchain-based EHR",
+        "authors": "Huanyu Wu;\nLunjie Li;\nHye-young Paik;\nSalil S. Kanhere",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Game Analysis of \"Blockchain+Supply Chain Finance\" Mode in Empowering Small and Micro Enterprises’ Financing",
+        "authors": "Lei Zhou;\nXiao Ya Zhong;\nJing Liu;\nMeng Jie Xia",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Application and Prospect Analysis of Blockchain Technology in Water Resources Protection",
+        "authors": "Guangfu Wu;\nEnning Li;\nMengmeng Wang",
+        "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Intellectual Property Blockchain",
+        "authors": "Saeed Alketbi;\nMassudi Bin Mahmuddin",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "SUPRA, a distributed publish/subscribe protocol with blockchain as a conflict resolver",
+        "authors": "Jean-Philippe ABEGG;\nQuentin BRAMAS;\nTimothée BRUGIÈRE;\nThomas NOEL",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Research on the New Capability Structure of University Accounting Talents under the Background of Artificial Intelligence and Blockchain",
+        "authors": "Yanli Yang",
+        "date_pub": "2020",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain Integration for Secure Health Data Management",
+        "authors": "Srujan Kale;\nAaransh Verma;\nBhagyesh Chaudhari;\nAditya Gandhi;\nChudaman Sukte;\nHanmant Magar",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "BICAFD: Blockchain based Image Content Authentication and Forgery Detection",
+        "authors": "Jayanti Rout;\nMinati Mishra",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "The Use of Blockchain to Enhance Transparency and Accountability in SRE Workflows",
+        "authors": "Ayisha Tabbassum;\nVinod Goje;\nPradeep Chintale;\nShaik Abdul Kareem",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Exploration of Radio Monitoring Data Storage Based on Blockchain Technology",
+        "authors": "Xiaoying Ma;\nZhixin Wang;\nWenkang Wei;\nAnping Li",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Enhancing Node Reliability in Opportunistic Networks through Blockchain Integration",
+        "authors": "Quang Huy Do;\nThiago Abreu;\nBaah Kusi;\nNelly Chatue Diop;\nSami Souihi",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain-RFID Integrated Model for Preventing Counterfeit Migration in Post-Supply Chain",
+        "authors": "Ram Chandra Barik;\nPramod Kumar Meher;\nBrajesh Kumar",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A Scalable Hierarchical-Domain Blockchain-Based Sharding System Towards Collaborative Sensing in Power Trading",
+        "authors": "Ran Chen;\nJunwei Bao;\nWeihua Zhao;\nTianxu Sun;\nMeihan Jin;\nJiayi Guo",
+        "date_pub": "2023",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain-based Farming Activities Tracker for Enhancing Trust in the Community Supported Agriculture Model",
+        "authors": "Duc-Hiep Nguyen;\nNguyen Huynh Tuong;\nHoang-Anh Pham",
+        "date_pub": "2020",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain-Based Outsourced Privacy-Preserving Support Vector Machine Classification on IoT Data",
+        "authors": "Abla Smahi;\nQi Xia;\nJianbin Gao;\nEmmanuel Boateng Sifah;\nKwame Opuni-Boachie Obour Agyekum;\nHu Xia",
+        "date_pub": "2020",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "IEEE SA Blockchain in Energy Standardization Framework: Grid and Prosumer Use Cases",
+        "authors": "Yuanrui Sang;\nUmit Cali;\nMurat Kuzlu;\nManisa Pipattanasomporn;\nClaudio Lima;\nSijie Chen",
+        "date_pub": "2020",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "BE-DNS: Blockchain-Enabled Decentralized Name Services and P2P Communication Protocol",
+        "authors": "Zihan Zhou;\nChenxiao Guo;\nHao Xu;\nXiaoshuai Zhang;\nYixuan Fan;\nLei Zhang",
+        "date_pub": "2023",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Research on intelligent terminal fusion scheme based on blockchain Technology",
+        "authors": "Chao Ma;\nFeng ZHAI;\nXia-qiang YAN;\nWei ZHANG",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Secure and Transparent Smart Agriculture: Integrating Blockchain Technology with IoT for Enhanced Data Integrity and Efficiency in Agricultural System",
+        "authors": "Muruganantham U;\nChandini P;\nPalanivel N;\nGubbala Lakshmi Balaji G;\nSri Kamesh M;\nSivasanker S",
+        "date_pub": "2025",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Efficient Authentication System Based On Blockchain Using eID card",
+        "authors": "Liang Liu;\nKazumasa Omote",
+        "date_pub": "2023",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Verification of customizable blockchain consensus rule using a formal method",
+        "authors": "Ryo Kawahara",
+        "date_pub": "2020",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "LBFT-DAG: A Swift, Leader-Driven, DAG-Based Consortium Blockchain with Byzantine Fault-Tolerance",
+        "authors": "Xuewen Dong;\nYi Liu;\nTeng Li;\nXiaojie Guo;\nYouliang Tian;\nYulong Shen;\nXiaojiang Du",
+        "date_pub": "2025",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Security Vulnerabilities and Countermeasures of Smart Contracts: A Survey",
+        "authors": "Epherem Merete Sifra",
+        "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Integrating Blockchain with IoT for Mitigating Cyber Threat In Corporate Environment",
+        "authors": "Ali Dharani;\nS. M. Khaliq-ur-Rehman Raazi",
+        "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Designing Blockchain Solutions: Selecting the Platform",
+        "authors": "Hunter Albright",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "BlockPaaS: Blockchain Platform as a Service",
+        "authors": "Yuvaraj Rajendra;\nVenkatesan Subramanian;\nSandeep Kumar Shukla",
+        "date_pub": "2023",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "An Analytical View on Political Voting System using Blockchain Technology - UAE Case Study",
+        "authors": "Nedaa Baker Al Barghuthi;\nIssam Hamdan;\nSaleh Al Suwaidi;\nAhmed Lootah;\nBader Al Amoudi;\nOmar Al Shamsi;\nSaeed Al Aryani",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Comparative Study of Blockchain Technology in Supply Chain Management",
+        "authors": "Komal Rahul Pardeshi",
+        "date_pub": "2023",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Survey on the Application of BlockChain to IoT",
+        "authors": "Sunghyun Cho;\nSejong Lee",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "BC-BLPM: A multi-level security access control model based on blockchain technology",
+        "authors": "Xiang Yu;\nZhangxiang Shu;\nQiang Li;\nJun Huang",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Application of Blockchain Technology in Supply Chain Finance",
+        "authors": "Cuiyuan Jiang;\nChen Ru",
+        "date_pub": "2020",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Quantum-resistant University Credentials Verification System on Blockchain",
+        "authors": "Mahendra Kumar Shrivas;\nSrujan Kachhwaha;\nAshok Bhansali;\nSatya Vir Singh",
+        "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Secure Blockchain for Admission Processing in Educational Institutions",
+        "authors": "Rida Javed Kutty;\nNazura Javed",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A Blockchain-based Approach to Secure Cloud Connected IoT Devices",
+        "authors": "Raihan Kabir;\nA S M Touhidul Hasan;\nMd. Rajibul Islam;\nYutaka Watanobe",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A Model for Car Registration System based on Blockchain Technology",
+        "authors": "An C. Tran;\nVo-Quoc-Bao Bui;\nHo Gia Huy;\nHang Van Kieng;\nVan Long Nguyen Huu",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Design of Blockchain Implementation for Cooperative: Indonesia Case",
+        "authors": "Lukman Rosyidi;\nRusmanto Maryanto;\nMuh. Syaiful Romadhon",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Exploring Generational Perspectives on Restaurant Food Safety and Blockchain Implementation: A Survey Analysis",
+        "authors": "Sachin Yele;\nRatnesh Litoriya",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A Cost-efficient IoT Forensics Framework with Blockchain",
+        "authors": "Suat Mercan;\nMumin Cebe;\nEge Tekiner;\nKemal Akkaya;\nMelissa Chang;\nSelcuk Uluagac",
+        "date_pub": "2020",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain in Healthcare: Introducing Novel Proof of Accountability Voting (PoAV) Consensus Algorithm and Custom Blockchain Network",
+        "authors": "G.L. Kodithuwakku;\nKSD Fernando",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Leveraging Blockchain in Labor-Intensive Jobs",
+        "authors": "Rahul Pradhan;\nDilip Kumar Sharma",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Fundamentals of Blockchain",
+        "authors": "Hui Li;\nHan Wang",
+        "date_pub": "2025",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Forensic Analysis of the Libra Memecoin Incident",
+        "authors": "Tao Yan;\nSheng-Nan Li;\nClaudio J. Tessone",
+        "date_pub": "2025",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Exploring Sybil and Double-Spending Risks in Blockchain Systems",
+        "authors": "Mubashar Iqbal;\nRaimundas Matulevičius",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "An Exploratory Study on the Impact of Hosting Blockchain Applications in Cloud Infrastructures",
+        "authors": "Ter Hui Chee;\nMuhammad Ehsan Rana",
+        "date_pub": "2023",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain Technology",
+        "authors": "Qi Xia;\nJianbin Gao;\nIsaac Amankona Obiri;\nKwame Omono Asamoah;\nDaniel Adu Worae",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Analysis of Data Management in Blockchain-Based Systems: From Architecture to Governance",
+        "authors": "Hye-Young Paik;\nXiwei Xu;\nH. M. N. Dilum Bandara;\nSung Une Lee;\nSin Kuang Lo",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain Technologies and Their Applications in Data Science and Cyber Security",
+        "authors": "Bhavani Thuraisingham",
+        "date_pub": "2020",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Karma - blockchain based charity foundation platform",
+        "authors": "Gubaev Renat;\nAnton Peresichansky;\nAlexandr Belenov;\nArtem Barger",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain-Oriented Privacy Protection with Online and Offline Verification in Cross-Chain System",
+        "authors": "Xiling Li;\nZhaofeng Ma;\nShoushan Luo",
+        "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain-Enhanced Federated Learning for Internet of Vehicles",
+        "authors": "Muhammad Asad;\nSafa Otoum",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Secure Data Access and Consensus Algorithm based on Consortium Blockchain in LVC",
+        "authors": "Bo Pan;\nQian Tao;\nDong Wang;\nXiangdong Zhou",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Transaction Latency in Blockchain Networks: Insights from Queuing Theory",
+        "authors": "Guoli Xie;\nYungui Chen;\nJialun Fang;\nLiwei Tian",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A Review of Blockchain based Decentralised Authentication Solutions and their improvement through Metamask",
+        "authors": "Andleeb Khan;\nParma Nand;\nBharat Bhushan;\nAlaa Ali Hameed;\nAkhtar Jamil",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "SD-SmartCert: A Blockchain-Based Certification System with Selective Disclosure",
+        "authors": "Aachal Modak;\nSuraj Jha;\nSonali Patil;\nRohini Pise",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Research and Analysis for the Network Improvement with Blockchain and Historical Nihilism",
+        "authors": "Shanshan Gu;\nJun Hu",
+        "date_pub": "2020",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Developing Payment Channels on the Algorand Blockchain",
+        "authors": "Domenico Tortola;\nAndrea Pelosi;\nAlessandro Di Biase;\nLaura Ricci",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Enhancing Parcel Tracking with Blockchain: A Secure and Efficient Solution for Large Shipments of Medicines and Drugs",
+        "authors": "Saud Alhoshan;\nMohammed AlAlem;\nEisa Jokhdar;\nDana Kharrat;\nNidal Nasser;\nLutful Karim",
+        "date_pub": "2023",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain-based Decentralized Digital Forensics Case Management System using IPFS",
+        "authors": "Jayaraj Viswanathan;\nS. Udhaya Kumar",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Traceability in Permissioned Blockchain",
+        "authors": "Tatsuo Mitani;\nAkira Otsuka",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "BlockZoom: Large-Scale Blockchain Testbed",
+        "authors": "Wazen M. Shbair;\nMathis Steichen;\nJérôme François;\nRadu State",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "IEEE Approved Draft Standard for Blockchain-based Digital Asset Classification",
+        "authors": "Unknown",
+        "date_pub": "2023",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "IEEE Draft Standard for Blockchain-based Digital Asset Classification",
+        "authors": "Unknown",
+        "date_pub": "2023",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain in 5G Networks: Perfomance Evaluation of Private Blockchain",
+        "authors": "I. R. Fedorov;\nA. V. Pimenov;\nG. A. Panin;\nS. V. Bezzateev",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Designing Blockchain Solutions: Defining Functional Requirements",
+        "authors": "Hunter Albright",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "IoT Security: Blockchain Applications",
+        "authors": "Junghee Lee;\nKim-Kwang Raymond Choo",
+        "date_pub": "2023",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A Hybrid Blockchain Implementation to Ensure Data Integrity and Interoperability for Public Service Organisations",
+        "authors": "Ali Shahaab;\nImtiaz Khan;\nRoss Maude;\nChaminda Hewage",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A Minimal Disclosure Signature Authentication Scheme Based on Consortium Blockchain",
+        "authors": "Zelin Yang;\nHui Ma;\nMingchao Ai;\nMeijie Zhan;\nGaofei Wu;\nYuqing Zhang",
+        "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Automation of Blockchain Network Setup in Offering Blockchain as a Service (BaaS)",
+        "authors": "Jyostna Grandhi;\nMahesh U Patil;\nLakshmi Eswari P R",
+        "date_pub": "2023",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "BBTM-IoT: New IoT Systems Trust Management Model Using Blockchain",
+        "authors": "Mohammadjavad Sharifpour;\nSeyyed Amir Asghari Tochae;\nShabnam Bohlooli",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain Technology for Vehicle Maintenance Registration",
+        "authors": "Meyliana;\nSurjandy;\nErick Fernando;\nHenry Antonius Eka Widjaja;\nCadelina Cassandra;\nArifa Tan;\nMiranda Carolina;\nMichele Carolina",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain Types in Patient Health Records Systems: An Analysis of Risk Perceptions",
+        "authors": "Huwida E. Said;\nNedaa B. Al Barghuthi;\nSulafa M. Badi;\nFaiza Hashim;\nShini Girija",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Design Model for Energy Trading on Blockchain",
+        "authors": "Kimmi Kumari;\nM Mrunalini;\nManish Kumar;\nViswanath Talasila;\nPradip Kumar Dixit",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Research on Trusted Transaction Model of E-commerce Based on Blockchain",
+        "authors": "Mengyuan Lu",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Architecture Design for Market-oriented Transaction of Distributed Generation Based on Blockchain",
+        "authors": "Liang SHEN;\nMan ZHOU;\nXiaoxu GONG;\nZinan SHI",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Farm-to-Fork: Blockchain and IoT-Based Solution for Enhancing Food Supply Chain Safety and Transparency in Saudi Arabia",
+        "authors": "Nourah AlRossais;\nNorah Alwohaibi;\nRazan AlKhaluqi;\nDeem Alshaye;\nLama Alnahabi;\nShada AlSalamah",
+        "date_pub": "2025",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Analysis of Performance of Blockchain in Cloud Computing",
+        "authors": "Neeraj;\nPrerna Agarwal;\nKaushal Bhardwaj",
+        "date_pub": "2025",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Dependable Food Traceability Data Through Blockchain and Database Integration",
+        "authors": "Lourenço Preto;\nSamih Eisa;\nOrlando Remédios;\nDavid R. Matos;\nMiguel L. Pardal",
+        "date_pub": "2025",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain Beyond Bitcoin: Blockchain Technology Challenges and Real-World Applications",
+        "authors": "Muniba Memon;\nSyed Shahbaz Hussain;\nUmair Ahmed Bajwa;\nAsad Ikhlas",
+        "date_pub": "2018",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Meepo: Sharded Consortium Blockchain",
+        "authors": "Peilin Zheng;\nQuanqing Xu;\nZibin Zheng;\nZhiyuan Zhou;\nYing Yan;\nHui Zhang",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "ChainPass: A Privacy-preserving Complete Cross-chain Authentication for Consortium Blockchains",
+        "authors": "Yuwei Xu;\nYing Zhang;\nHaonan Shi;\nJie Cao",
+        "date_pub": "2023",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Smart Contract Service Optimization in Blockchain-Cloud Collaborative Computing",
+        "authors": "Ji Wan;\nKai Hu;\nJie Li;\nHao Su;\nQingshun Wu;\nMingyuan Li;\nLibo Feng;\nYan Pan",
+        "date_pub": "2023",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Architecture Design of Blockchain-Based Applications",
+        "authors": "Maximilian Wöhrer;\nUwe Zdun;\nStefanie Rinderle-Ma",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Monitoring Health of IIOT Devices using Blockchain",
+        "authors": "Rushika Ramane;\nRutuja Patole;\nSoundarya Nevrekar;\nAnagha Aher;\nNeha Deshmukh",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Hybrid Blockchain Adoption Model in Agricultural Product Supply Chain to Support Insurance Process Transparency Using Ganache",
+        "authors": "Inayatulloh",
+        "date_pub": "2025",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A Vademecum on Blockchain Technologies: When, Which, and How",
+        "authors": "Marianna Belotti;\nNikola Božić;\nGuy Pujolle;\nStefano Secci",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "TMRB: Trusted Multimedia Scheme With Redactable Blockchain",
+        "authors": "Tao Zhang",
+        "date_pub": "2025",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A Novel Blockchain-Based Strategy for Energy Conservation in Cognitive Wireless Sensor Networks",
+        "authors": "Khemraj Sharma;\nRohit Goyal;\nSukesh Kumar Bhagat;\nSheenu Agarwal;\nGirish Singh Bisht;\nMohemmed Hussien",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "When Blockchain Meets SGX: An Overview, Challenges, and Open Issues",
+        "authors": "Zijian Bao;\nQinghao Wang;\nWenbo Shi;\nLei Wang;\nHong Lei;\nBangdao Chen",
+        "date_pub": "2020",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Energy-recycling Blockchain with Proof-of-Deep-Learning",
+        "authors": "Changhao Chenli;\nBoyang Li;\nYiyu Shi;\nTaeho Jung",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Why blockchain is important for software developers, and why software engineering is important for blockchain software (Keynote)",
+        "authors": "Michele Marchesi",
+        "date_pub": "2018",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Performance Evaluation of Cryptographic Schemes for Blockchain Security of Smart Grids",
+        "authors": "Emanuele Raso;\nLorenzo Bracciale;\nPierluigi Gallo;\nGiorgio Bernardinetti;\nGiuseppe Bianchi;\nEleonora Riva Sanseverino;\nPierpaolo Loreti",
+        "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A Technique to Avoid Blockchain Denial of Service (BDoS) and Selfish Mining Attack",
+        "authors": "Md. Ahsan Habib;\nMd. Motaleb Hossen Manik",
+        "date_pub": "2023",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Research On Privacy Protection Scheme For Educational Data Based On Blockchain",
+        "authors": "Xun Gao",
+        "date_pub": "2023",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain-IoT Demo for Supply Chain Management",
+        "authors": "Yash Madhwal;\nYury Yanovich",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Research on Spatio-Temporal Blockchain Query Optimization for Electronic Document Tamper Resistance",
+        "authors": "Jincheng Wang;\nZeyu Dou;\nJingshi Yang;\nXiaoyi Wang;\nYuzhe Zhang",
+        "date_pub": "2023",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain Data Management and SmartCards",
+        "authors": "Marcel Pehlke;\nSophia Fedder;\nClemens Schmitt;\nMike Witkowski;\nMarc Jansen",
+        "date_pub": "2025",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Conception of Applying Sovereign Blockchain Technology to Improve Tax Credit Management in Guangdong Province, China",
+        "authors": "Qingnian Wang;\nDanxia Qiu;\nXinyi He;\nLi Wu;\nYanfei Zeng",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Poster: Single-TEE Solution for Offline Blockchain Transactions",
+        "authors": "Srivatsav Chenna;\nChristian Prehofer",
+        "date_pub": "2025",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Could Blockchain Technology serve as a Central Bank to control money supply",
+        "authors": "Abderrahmane Aya",
+        "date_pub": "2025",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Preventing Fraud and Fairness in Coffee Supply Chain with Blockchain Approach",
+        "authors": "Devin Suhandi;\nGunawan Wang",
+        "date_pub": "2025",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A Methodology for Replicating Historical Exploits on EVM-Compatible Blockchains",
+        "authors": "Zhiyang Chen;\nPhillip Kemper;\nYi Liu;\nJan Gorzny;\nDiego Siqueira;\nYuekang Li;\nDonato Pellegrino;\nMartin Derka",
+        "date_pub": "2025",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "NEMO: Faster Parallel Execution for Highly Contended Blockchain Workloads",
+        "authors": "François Ezard;\nCan Umut Ileri;\nJérémie Decouchant",
+        "date_pub": "2025",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Evaluating the Impact of Network Latency on the Safety of Blockchain Transactions",
+        "authors": "Luming Wan;\nDavid Eyers;\nHaibo Zhang",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "IEEE Draft Standard for Framework of Computational Resource Trading based on Blockchain",
+        "authors": "Unknown",
+        "date_pub": "2025",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Interactive Visualization of Proof-of-Work Consensus Protocol on Raspberry Pi",
+        "authors": "Anton Ivashkevich;\nMatija Piškorec;\nClaudio J. Tessone",
+        "date_pub": "2025",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "IEEE Trial-Use Recommended Practice for Framework and Definitions for Blockchain Governance",
+        "authors": "Unknown",
+        "date_pub": "2023",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A Blockchain and ABAC Based Data Access Control Scheme in Smart Grid",
+        "authors": "Xiao Liang;\nNingyu An;\nDa Li;\nQiang Zhang;\nRuimiao Wang",
+        "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "RTTAC-An Access Control Model Based on Blockchain and Role-Trusted Transfer",
+        "authors": "Feng Wang;\nYang Lu;\nYang Liu;\nZhiruo Zhang",
+        "date_pub": "2023",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Designing Blockchain Solutions: Making the Case",
+        "authors": "Hunter Albright",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Designing Blockchain Solutions: Defining Non-Functional Requirements",
+        "authors": "Hunter Albright",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Optimization of Blockchain Storage Architecture Based on Voronoi Diagram",
+        "authors": "Xiaofeng Chen;\nXiangjuan Jia;\nLu Zhang;\nLiang Cai",
+        "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Visualization of Blockchain Consensus Degradation",
+        "authors": "Luca Ambrosini;\nMatija Piškorec;\nClaudio J. Tessone",
+        "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain and off-chain: A Solution for Audit Issues in Supply Chain Systems",
+        "authors": "Juan Carlos López-Pimentel;\nOmar Rojas;\nRaúl Monroy",
+        "date_pub": "2020",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A Multi-Class Blockchain Services Framework for Communication Networks",
+        "authors": "Gholamreza Ramezan;\nCyril Leung",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Towards Application Portability on Blockchains",
+        "authors": "Kazuyuki Shudo;\nReiki Kanda;\nKenji Saito",
+        "date_pub": "2018",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain And Legal Protection of Copyright Technical Protection Measures for Publications in the Internet Era",
+        "authors": "Lin Duan",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain-Based Data Management and Control System in Rail Transit Security Scenario",
+        "authors": "Haodong Li;\nJunxiong Lin;\nShaohua Zhang;\nMengying Xie;\nYicheng Zhou;\nYuan Weng;\nYu Liu;\nHongbing Zhang",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Comparative Analysis of Blockchain and Distributed Ledger Technologies: Simulations and Evaluations of Chord, Linear, DAG, and BitTorrent-based Approaches",
+        "authors": "Samreen Sultana;\nFarheen Fatima;\nRubeena Afsar;\nNikhath Jahan;\nMohammad Pasha;\nMohd Umar Farooq",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Formal Analysis of Key Exchange Protocol in a Blockchain-based Trustworthy Transmission System",
+        "authors": "Dongyao Wang",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Research on blockchain architecture for terminal side business applications of distributed iot",
+        "authors": "Xiukui Pan;\nKe Yang;\nNa Li;\nShangzhuo Zheng;\nQinglei Guo",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain Sharding Model to Rise the Efficiency of Luxury Product Trades Base on Blockchain Technology",
+        "authors": "Inayatulloh",
+        "date_pub": "2025",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain Technology-Future Of IoT: Including Structure, Limitations And Various Possible Attacks",
+        "authors": "Ayasha Malik;\nSiddharth Gautam;\nShafiqul Abidin;\nBharat Bhushan",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain based Framework for Student Identity and Educational Certificate Verification",
+        "authors": "Aastha Chowdhary;\nShubham Agrawal;\nBhawana Rudra",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain: A Panacea for Electronic Health Records?",
+        "authors": "Mohamad Kassab;\nJoanna DeFranco;\nTarek Malas;\nValdemar Vicente Graciano Neto;\nGiuseppe Destefanis",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "The Blockchain and Homomorphic Encryption Data Sharing Method in Privacy-Preserving Computing",
+        "authors": "Linkai Zhu;\nShiyang Song;\nSheng Peng;\nWennan Wang;\nShanwen Hu;\nWusong Lan",
+        "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Research on data security sharing mechanism and application based on blockchain and privacy computing",
+        "authors": "Baoluo Ma;\nCheng Chi;\nJuan Tian;\nYuwen Zhang",
+        "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Application Research on Blockchain Based Access Control",
+        "authors": "Ying Zhu;\nFeng Xu",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "An interactive and secure Blockchain web portal for online healthcare services",
+        "authors": "Sonali Kothari Tidke;\nVijayshri Khedkar;\nAditya Banerjee;\nAniket Mulik;\nAditi Goyal;\nYashika Chhabaria",
+        "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain Technology: Opportunities and Challenges in Copyright Industry",
+        "authors": "Wang Zimu",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Research on the Blockchain Digital Capability Platform for “No Proof City”",
+        "authors": "HongTao He;\nShen Bin;\nYeQing Chen",
+        "date_pub": "2023",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Land Records System Using Hybrid Blockchain",
+        "authors": "Rishikesh Kadam;\nVishakha Vidhani;\nAnushree Bane;\nBhavika Valecha;\nNupur Giri",
+        "date_pub": "2020",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain Based Cloud Storage of Patients Health Records",
+        "authors": "Rizwana Shaikh",
+        "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Latency Evaluation in Ad-hoc IoT-Blockchain Network",
+        "authors": "Yue Su;\nKien Nguyen;\nHiroo Sekiya",
+        "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A Design of Extensible Architecture Based on Consortium Blockchain",
+        "authors": "Lin Ni;\nShuai Zhang;\nGuopeng Li;\nKun Han;\nHui Sun",
+        "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain Technology: Characteristics, Security and Privacy; Issues and Solutions",
+        "authors": "Muneer Bani Yassein;\nFarah Shatnawi;\nSaif Rawashdeh;\nWail Mardin",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A Proposed Architecture for The Indonesia’s National Blockchain",
+        "authors": "Dea Saka Kurnia Putra;\nAmiruddin Amiruddin",
+        "date_pub": "2023",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Scaling a Blockchain System from Eventual to Full Atomicity Using Confederation Approach",
+        "authors": "Fahad Rahman;\nChafiq Titouna;\nFarid Nait-Abdesselam",
+        "date_pub": "2023",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A Journey Towards the Most Efficient State Database for Hyperledger Fabric",
+        "authors": "Ivan Laishevskiy;\nArtem Barger;\nVladimir Gorgadze",
+        "date_pub": "2023",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Architecting Your Enterprise Blockchain",
+        "authors": "Joseph Holbrook",
+        "date_pub": "2020",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "General-Purpose Languages for Blockchain Smart Contracts Development: A Comprehensive Study",
+        "authors": "Luca Olivieri;\nVincenzo Arceri;\nBadaruddin Chachar;\nLuca Negrini;\nFabio Tagliaferro;\nFausto Spoto;\nPietro Ferrara;\nAgostino Cortesi",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Digitizing Invoice and Managing VAT Payment Using Blockchain Smart Contract",
+        "authors": "Van-Cam NGUYEN;\nHoai-Luan PHAM;\nThi-Hong TRAN;\nHuu-Thuan HUYNH;\nYasuhiko NAKASHIMA",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Design patterns and framework for blockchain integration in supply chains",
+        "authors": "Dennis Lamken;\nTobias Wagner;\nTim Hoiss;\nKarl Seidenfad;\nAndreas Hermann;\nMehmet Kus;\nUlrike Lechner",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "COMPASS: A Data-Driven Blockchain Evaluation Framwework",
+        "authors": "Wei-Tek Tsai;\nRong Wang;\nShuai Liu;\nEnyan Deng;\nDong Yang",
+        "date_pub": "2020",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain-Enabled Emergency Detection and Response in Mobile Healthcare System",
+        "authors": "Suryakanta Panda;\nArnab Mukherjee;\nRaju Halder;\nSamrat Mondal",
+        "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A Model of Decentralized Social Internet of Things using Blockchain Offline Channels",
+        "authors": "Subhasis Thakur;\nJohn G. Breslin",
+        "date_pub": "2020",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain-based traceability system for trading pre-made food products",
+        "authors": "ShengHui Guo",
+        "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Digital Copyright Management Model of University Library Based on Blockchain Technology",
+        "authors": "Cao Qian",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "E-Chain Learn: A Degree Certification System Based on Blockchain",
+        "authors": "Tushangqing Kuang;\nWenhao Zou;\nHong Qi;\nShengwen Zou",
+        "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Music Information Retrieval Technology: Fusion of Music, Artificial Intelligence and Blockchain",
+        "authors": "Yun Cheng",
+        "date_pub": "2020",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "The Evaluation Method of Science and Technology Collaborative Innovation Based on Blockchain Technology",
+        "authors": "Gengran Liu;\nXiaoyang Dong;\nMenglong Wang",
+        "date_pub": "2023",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Design of Blockchain-based Travel Rule Compliance System",
+        "authors": "Chaehyeon Lee;\nChanghoon Kang;\nWonseok Choi;\nJehoon Lee;\nMyunghun Cha;\nJongsoo Woo;\nJames Won-Ki Hong",
+        "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A linkable Ring Signature Electronic Cash Scheme Based on Blockchain",
+        "authors": "Xinxin Liu;\nMinghui Zhang;\nYuanpan Zheng;\nYanyan Yang",
+        "date_pub": "2020",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Completely FROST-ed: IoT issued FROST signature for Hyperledger Fabric blockchain",
+        "authors": "Mostafa Khattat;\nRoland Kromes",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A Hybrid Index-Based Block Construction and Retrieval Algorithm for Efficient Data Retrieval on Blockchain",
+        "authors": "Lei Mu;\nMinqiang Lv;\nShanshan Wang;\nHui Cao",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Building Trustworthy AI Systems: AI Inference Verification with Blockchain and Zero-Knowledge Proofs",
+        "authors": "Patrizio Germani;\nMichelangelo Amoruso Manzari;\nRiccardo Magni;\nPaolo Dibitonto;\nFabio Previtali;\nEmanuele D’Agostini",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Decentralized Data Subscription System: A Multi-Chain Blockchain and IPFS Integration",
+        "authors": "Ruizhi Li;\nFangjie Wan;\nJiaming Hai",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Research on the construction of agricultural product quality and safety traceability platform based on blockchain technology",
+        "authors": "Chen Shengfeng;\nZhou Linli;\nFan Zehua",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Empowering Healthcare: Hyperledger Blockchain for Unified Electronic Health Records and Organ Donation Integrity",
+        "authors": "Rohini Pise;\nShraddha Gavkare;\nSonali Patil;\nSayali Patil;\nSairaj Shinde",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A Novel Counterfeit-proof, Traceable, and Cost efficient Drug Supply Chain using Ethereum Blockchain",
+        "authors": "Swatisipra Das;\nMohammad Sahil;\nRojalina Priyadarshini;\nMinati Mishra",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Decentralized software project outsourcing: Blockchain based auctioning and milestone verification",
+        "authors": "Emilia-Oana MÎŞ;\nDinu-Ştefan Rusu;\nAndrei VasilĂŢEanu",
+        "date_pub": "2025",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Secured and Decentralized Diabetes Data Management Using Blockchain and Federated Learning",
+        "authors": "Jerina Eda;\nKasem Khalil",
+        "date_pub": "2025",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Intellihealth – A Secured Decentralized Electronic Health Record System using Blockchain",
+        "authors": "Sangeeta Parshionikar;\nAarush Verulkar;\nAshay Katkar",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Empowering India’s Climate Action: Harnessing Blockchain for Carbon Trading",
+        "authors": "Shreya Jain;\nAtharva Parikh;\nShruti Jawale;\nRiddhi Pawar",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Ownership Preserving AI Market Places Using Blockchain",
+        "authors": "Nishant Baranwal Somy;\nKalapriya Kannan;\nVijay Arya;\nSandeep Hans;\nAbhishek Singh;\nPranay Lohia;\nSameep Mehta",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "IEEE Approved Draft Standard for Blockchain Interoperability - Data Authentication and Communication Protocol",
+        "authors": "Unknown",
+        "date_pub": "2023",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "IEEE Draft Standard for Blockchain-based Digital Asset Management",
+        "authors": "Unknown",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Evolutionary game of banks and enterprises in digital supply chain finance driven by blockchain",
+        "authors": "Guoqing Zhao;\nJianmei Dong;\nMohan Liu;\nKun Zhai",
+        "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Fork Rate-Based Analysis of the Longest Chain Growth Time Interval of a PoW Blockchain",
+        "authors": "Hirotsugu Seike;\nYasukazu Aoki;\nNoboru Koshizuka",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Data Analytics on Blockchains",
+        "authors": "Issam Al-Azzoni;\nSaqib Iqbal;\nNenad Petrović",
+        "date_pub": "2023",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "DarkTrans: A Blockchain-based Covert Communication Scheme with High Channel Capacity and Strong Concealment",
+        "authors": "Yuwei Xu;\nZehui Wu;\nJie Cao;\nJingdong Xu;\nGuang Cheng",
+        "date_pub": "2023",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "(Short Paper) Developing a Smart Storage Container for a Blockchain-Based Supply Chain Application",
+        "authors": "Johannes Hinckeldeyn;\nKreutzfeldt Jochen",
+        "date_pub": "2018",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain-Based Smart Contracts for Land Title Registry Opportunities and Adaption for Fiji",
+        "authors": "Rishal Ravikesh Chand;\nA B M Shawkat Ali;\nPeng Zhang",
+        "date_pub": "2023",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain-based Solutions for Education Credentialing System: Comparison and Implications for Future Development",
+        "authors": "Zoey Ziyi Li;\nK. Liu Joseph;\nJiangshan Yu;\nDragan Gasevic",
+        "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Enhancing Blockchain Storage Efficiency in Mobile IoT through Multidimensional Structures and Collective Signing",
+        "authors": "Hussein Zangoti;\nAlex Pissinou Makki;\nWazir Zada Khan;\nNiki Pissinou",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain-based Reward System: a Means for Providing Incentive to Students for Teaching Feedback",
+        "authors": "Mahran Morsidi;\nSharul Tajuddin;\nRavi Kumar Patchmuthu;\nS. H. Shah Newaz",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Cross-chain Architecture of Blockchain Integrating Notary Mechanism and Relay-chain Technology",
+        "authors": "ShiHao Yang;\nGuoFeng Zhang;\nBin Feng;\nYan Li;\nChuan Zhao;\nPeng Wang;\nCong Shen;\nYaNan Zhang",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A Blockchain Smart ContractApplication Framework",
+        "authors": "ArifFurkan Mendi;\nTolga Erol;\nEmre Safak;\nTolga Kaym",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "SoK: Unified Blockchain Data Structure",
+        "authors": "Natkamon Tovanich;\nMadalina I. Sas;\nChristophe Lebrun;\nMunthitra Thadthapong;\nWilliam J. Knottenbelt;\nArnaud Gaudinat;\nMarco Mattavelli",
+        "date_pub": "2025",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain-based secure firmware management system in IoT environment",
+        "authors": "Minsung Son;\nHeeyoul Kim",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain Based Multi-Layer Security Network Authentication System for Uncertain Attack in the Wireless Communication System",
+        "authors": "R. Josphineleela;\nRupal Gupta;\nNeeti Misra;\nMohit Malik;\nSomasundaram K;\nDurgaprasad Gangodkar",
+        "date_pub": "2023",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A Blockchain-Based Access Control Framework for Secured Data Sharing in Industrial Internet",
+        "authors": "Wei Zhou;\nJiahui Jin",
+        "date_pub": "2020",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Secure Organ Chain: A Blockchain-Based Framework for Organ Donation",
+        "authors": "S Shanmugam;\nPreet Kumar;\nKashish Kedia",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Interoperability Solutions for Blockchain",
+        "authors": "Monika;\nRajesh Bhatia",
+        "date_pub": "2020",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Demystifying Cryptography behind Blockchains and a Vision for Post-Quantum Blockchains",
+        "authors": "Auqib Hamid Lone;\nRoohie Naaz",
+        "date_pub": "2020",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A Lightweight and Attack-Proof Bidirectional Blockchain Paradigm for Internet of Things",
+        "authors": "Chenhao Xu;\nYouyang Qu;\nTom H. Luan;\nPeter W. Eklund;\nYong Xiang;\nLongxiang Gao",
+        "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain for IoT Enabled Supply Chain Management - A Systematic Review",
+        "authors": "A. S. Sangeetha;\nS. Shunmugan;\nG. Murugan",
+        "date_pub": "2020",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Indonesian Halal Food Integrity: Blockchain Platform",
+        "authors": "Iwan Vanany;\nNur Aini Rakhmawati;\nSukoso Sukoso;\nJan.Mei Soon",
+        "date_pub": "2020",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Integration of communication and computing in blockchain-enabled multi-access edge computing systems",
+        "authors": "Zhonghua Zhang;\nJie Feng;\nQingqi Pei;\nLe Wang;\nLichuan Ma",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "FLB2: Layer 2 Blockchain Implementation Scheme on Federated Learning Technique",
+        "authors": "Revin Naufal Alief;\nMade Adi Paramartha Putra;\nAugustin Gohil;\nJae-Min Lee;\nDong-Seong Kim",
+        "date_pub": "2023",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain Enabled Autonomous Vehicle Based Vehicular IoT System",
+        "authors": "Hemani;\nDaya Shankar Singh;\nRajendra Kumar Dwivedi",
+        "date_pub": "2023",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Leveraging Blockchain to Enhance Digital Transformation in Small and Medium Enterprises: Challenges and a Proposed Framework",
+        "authors": "Hoai-Nam Nguyen;\nHoang-Anh Pham;\nNguyen Huynh-Tuong;\nDuc-Hiep Nguyen",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain for COVID-19 Patient Health Record",
+        "authors": "Preethi Harris",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain Powered Government Financial System",
+        "authors": "Pinku Ranjan;\nBhavyansh Sharma;\nAnkit Mittal;\nHarshit Gupta;\nAnil Kumar Singh",
+        "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Student Management Model Integrating E-Commerce Based on Blockchain Technology",
+        "authors": "Khoa Tan Vo;\nThu Nguyen;\nThu-Thuy Ta;\nTu-Anh Nguyen-Hoang;\nNgoc-Thanh Dinh",
+        "date_pub": "2023",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Lightweight Blockchain Simulation with Transaction Graph Visualizer",
+        "authors": "Miklós Sipos;\nSándor Szénási",
+        "date_pub": "2023",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain Technology for Secure and Efficient Land Registration Management: A Promising Paradigm Shift in India",
+        "authors": "Anil Kumar Mahto",
+        "date_pub": "2023",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Challenges of Blockchain in Higher Education Institutions for Protection Against Diploma Forgery",
+        "authors": "Avni Rustemi;\nVladimir Atanasovski;\nAleksandar Risteski;\nPero Latkoski",
+        "date_pub": "2023",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Study of Blockchain with Bitcoin based Fund Raise Use case using Laravel Framework",
+        "authors": "Aparna Ramalingaiah;\nThaniya Sulthana",
+        "date_pub": "2018",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Unveiling Blockchain's Potential with Consensus Algorithms and Real-World Applications in Supply Chain Management",
+        "authors": "M. Balasubramani;\nK. Subathra;\nSwathi Agarwal;\nJ Bamini;\nAnurag Aeron;\nE. Gangadevi",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "CryptoProctor In Elevating Online Exams through Blockchain Technology",
+        "authors": "R. Ramani;\nS. Gangadhar;\nA. Balaganesh;\nM. Ganganathan",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Online Learning Certification System using Blockchain Technology",
+        "authors": "Hsu Mon Kyi;\nYin Nyein Aye",
+        "date_pub": "2025",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Decentralizing the Metaverse: Unraveling the Nexus of Digital Assets and Blockchain",
+        "authors": "Mohd Rehan;\nDilip Kumar Sharma",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Creating an Energy-Efficient Óbuda University Blockchain in Education for Secure Data Storage",
+        "authors": "Krisztián Bálint",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    }
+]
