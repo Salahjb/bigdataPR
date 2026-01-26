@@ -28,8 +28,7 @@ This project implements a complete Big Data pipeline to collect, store, analyze,
     * **Machine Learning:** LDA (Latent Dirichlet Allocation) for Topic Modeling.
 
 ### 4. Visualization (BI)
-* **Backend:** Python Flask API
-* **Frontend:** Angular / Chart.js
+* **Frontend:** Streamlit
 * **Insights:** Word Clouds, Co-authorship Graphs, Temporal Trends.
 
 ---
@@ -45,8 +44,8 @@ This project implements a complete Big Data pipeline to collect, store, analyze,
 ### 1. Environment Setup
 ```bash
 # Clone the repository
-git clone [https://github.com/your-username/capstone-bigdata.git](https://github.com/your-username/capstone-bigdata.git)
-cd capstone-bigdata
+git clone [https://github.com/Salahjb/bigdataPR.git](https://github.com/Salahjb/bigdataPR.git)
+cd bigdataPR
 
 # Create virtual environment
 python -m venv .venv
